@@ -1,0 +1,7 @@
+from_department,to_department,transition_count,flow_efficiency
+Emergency,Cardiology,1450,0.78
+Emergency,Pulmonology,1230,0.75
+Cardiology,Internal Medicine,980,0.80
+Pulmonology,Internal Medicine,1105,0.77
+Internal Medicine,Psychiatry,460,0.72
+Internal Medicine,Gastroenterology,690,0.79

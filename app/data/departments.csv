@@ -1,0 +1,7 @@
+department_id,hospital_name,department_name,lat,lon,drop_rate,flow_efficiency
+101,SVH Central Hospital,Cardiology,-33.865,151.209,0.18,0.82
+102,SVH Central Hospital,Emergency,-33.867,151.205,0.22,0.76
+103,SVH West Campus,Pulmonology,-33.912,151.184,0.16,0.80
+104,SVH North Hospital,Internal Medicine,-33.845,151.235,0.20,0.74
+105,SVH Community Clinic,Psychiatry,-33.895,151.220,0.14,0.79
+106,SVH Digestive Center,Gastroenterology,-33.878,151.195,0.17,0.81

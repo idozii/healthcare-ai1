@@ -1,0 +1,26 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Git and editor metadata
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Local tooling output
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Frontend dependencies and build outputs
+web/node_modules/
+web/.next/
+
+# OS artifacts
+.DS_Store

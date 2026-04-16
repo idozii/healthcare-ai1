@@ -1,0 +1,31 @@
+disease_name,rank,DiagnosisValue,DiagnosisName,score,auto_selected
+Acute Coronary Syndrome,1,J80,Acute respiratory distress syndrome (Multi HCC)( ICD-10-CM: J80 ),0.5324,True
+Acute Coronary Syndrome,2,Q99.819,"Usher syndrome, unspecified( ICD-10-CM: Q99.819 )",0.4892,False
+Acute Coronary Syndrome,3,Q87.81,Alport syndrome (HHS-HCC)( ICD-10-CM: Q87.81 ),0.4789,False
+Asthma Exacerbation,1,J45.901,Unspecified asthma with (acute) exacerbation (HHS-HCC)( ICD-10-CM: J45.901 ),0.9469,True
+Asthma Exacerbation,2,J45.31,Mild persistent asthma with (acute) exacerbation (HHS-HCC)( ICD-10-CM: J45.31 ),0.6964,False
+Asthma Exacerbation,3,J45.51,Severe persistent asthma with (acute) exacerbation (Multi HCC)( ICD-10-CM: J45.51 ),0.6838,False
+Pneumonia,1,J12.9,"Viral pneumonia, unspecified( ICD-10-CM: J12.9 )",0.8,True
+Pneumonia,2,J12.89,Other viral pneumonia( ICD-10-CM: J12.89 ),0.8,False
+Pneumonia,3,J18.9,"Pneumonia, unspecified organism( ICD-10-CM: J18.9 )",0.75,False
+Heart Failure,1,I50.9,"Heart failure, unspecified (HCC) (Multi HCC)( ICD-10-CM: I50.9 )",1.0,True
+Heart Failure,2,I50.810,"Right heart failure, unspecified (Multi HCC)( ICD-10-CM: I50.810 )",0.9042,False
+Heart Failure,3,I50.20,Unspecified systolic (congestive) heart failure (HCC) (Multi HCC)( ICD-10-CM: I50.20 ),0.8624,False
+Anxiety Disorder,1,F41.9,"Anxiety disorder, unspecified( ICD-10-CM: F41.9 )",1.0,True
+Anxiety Disorder,2,F40.9,"Phobic anxiety disorder, unspecified( ICD-10-CM: F40.9 )",0.909,False
+Anxiety Disorder,3,F41.1,Generalized anxiety disorder( ICD-10-CM: F41.1 ),0.853,False
+Chronic Obstructive Pulmonary Disease,1,J44.89,Other specified chronic obstructive pulmonary disease (Multi HCC)( ICD-10-CM: J44.89 ),1.0,True
+Chronic Obstructive Pulmonary Disease,2,J44.9,"Chronic obstructive pulmonary disease, unspecified (Multi HCC)( ICD-10-CM: J44.9 )",1.0,False
+Chronic Obstructive Pulmonary Disease,3,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation (Multi HCC)( ICD-10-CM: J44.1 ),0.8993,False
+Gastroesophageal Reflux Disease,1,K21.9,Gastro-esophageal reflux disease without esophagitis( ICD-10-CM: K21.9 ),0.5625,True
+Gastroesophageal Reflux Disease,2,K21.00,"Gastro-esophageal reflux disease with esophagitis, without bleeding( ICD-10-CM: K21.00 )",0.4724,False
+Gastroesophageal Reflux Disease,3,P78.83,Newborn esophageal reflux( ICD-10-CM: P78.83 ),0.4657,False
+Pulmonary Embolism,1,I27.82,Chronic pulmonary embolism (Multi HCC)( ICD-10-CM: I27.82 ),0.9076,True
+Pulmonary Embolism,2,Z86.711,Personal history of pulmonary embolism( ICD-10-CM: Z86.711 ),0.6957,False
+Pulmonary Embolism,3,I26.09,Other pulmonary embolism with acute cor pulmonale (Multi HCC)( ICD-10-CM: I26.09 ),0.6374,False
+Myocarditis,1,I51.4,"Myocarditis, unspecified (Multi HCC)( ICD-10-CM: I51.4 )",1.0,True
+Myocarditis,2,B33.22,Viral myocarditis (HHS-HCC)( ICD-10-CM: B33.22 ),0.8214,False
+Myocarditis,3,I40.1,Isolated myocarditis (HHS-HCC)( ICD-10-CM: I40.1 ),0.7758,False
+Pericarditis,1,I30.9,"Acute pericarditis, unspecified (HHS-HCC)( ICD-10-CM: I30.9 )",0.83,True
+Pericarditis,2,I31.1,Chronic constrictive pericarditis (HHS-HCC)( ICD-10-CM: I31.1 ),0.6033,False
+Pericarditis,3,I30.0,Acute nonspecific idiopathic pericarditis (HHS-HCC)( ICD-10-CM: I30.0 ),0.5217,False

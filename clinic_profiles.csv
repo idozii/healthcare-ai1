@@ -1,0 +1,333 @@
+Address_norm,City,ClinicID,Address,n_departments,county,tract,has_ed,has_icu,has_or,has_lnd,has_hod,has_snf,n_specialties,specialty_names,facility_name,facility_type,notes,is_curated,has_ed_curated,has_ed_final,lat,lon
+1 expocentre dr,TOPEKA,10538,1 Expocentre Dr,1,SHAWNEE,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+1000 sw jackson,TOPEKA,8040,"1000 SW Jackson, Suite 075",1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Kdhe Bureau Of Epidemiology And Public Health Informatics,Unknown,,FALSE,0,0,39.0473,-95.6943
+1001 sw 29th st,TOPEKA,8098,1001 SW 29th St,4,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Brewster Health Center - Rehabilitation,Unknown,,FALSE,0,0,39.0473,-95.6943
+1001 sw garfield,TOPEKA,7902,1001 SW Garfield,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Marian Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1009 n marshall ave po box 219,CHAPMAN,12180,1009 N Marshall Ave PO BOX 219,1,DICKINSON,20041984100,0,0,0,0,0,0,0,,Chapman Valley Manor,Unknown,,FALSE,0,0,38.9739,-97.0222
+1014 poyntz ave,MANHATTAN,10548,1014 Poyntz Avenue,3,RILEY,20161000900,0,0,0,0,0,0,1,Gastroenterology,Manhattan Gi Poyntz,Unknown,,FALSE,0,0,39.1836,-96.5717
+1017 main st,OSAGE CITY,12537,1017 Main St,1,OSAGE,20139010400,0,0,0,0,0,0,0,,Osage Nursing And Rehabilitation Center,Unknown,,FALSE,0,0,38.6334,-95.831
+1021 sw fleming ct,TOPEKA,7898,1021 SW Fleming Court,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Lexington Park Asst Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+1022 caroline ave,JUNCTION CITY,12182,1022 Caroline Ave,1,GEARY,20061000800,0,0,0,0,0,0,0,,Brookdale Junction City,Unknown,,FALSE,0,0,39.0286,-96.8314
+103 e 9th po box 197,LYNDON,7911,103 E 9th                                                      PO Box 197,1,OSAGE,20139010300,0,0,0,0,0,0,0,,Osage County Health Department,Unknown,,FALSE,0,0,38.6101,-95.6835
+1031 sw fleming ct,TOPEKA,11309,1031 SW Fleming Court,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Lexington Park Health & Rehab,Unknown,,FALSE,0,0,39.0473,-95.6943
+104 e 8th ave,EMPORIA,8049,104 E 8TH AVE,1,LYON,20111000300,0,0,0,0,0,0,0,,Mental Health Center Of East Central Kansas,Unknown,,FALSE,0,0,38.4039,-96.1814
+1100 sw wanamaker,TOPEKA,8036,1100 SW Wanamaker Suite 103,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,New Health And Anti-Aging Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1101 sw 29th st,TOPEKA,7993,1101 SW 29th St,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,St Francis Health Center At Brewster Place,Unknown,,FALSE,0,0,39.0473,-95.6943
+1102 st marys rd,JUNCTION CITY,11748,1102 St Marys Rd,477,GEARY,20061000800,1,1,1,1,1,1,19,Cardiac Rehabilitation | Case Management | Emergency Medicine | Infectious Diseases | Infusion Therapy | Lab | Nutrition | Obstetrics | Occupational Therapy | Pain Medicine | Pediatrics | Pharmacy | Physical Therapy | Primary Care | Radiology | Respiratory Therapy | Sleep Medicine | Speech Therapy | Wound Care,Flint Hills Community Hospital,Hospital,"FHC campus — ED, ICU, L&D, OR, outpatient clinics",TRUE,1,1,39.0286,-96.8314
+1105 sunset ave,MANHATTAN,12497,1105 Sunset Ave,1,RILEY,20161000900,0,0,0,0,0,0,0,,Lafene Health Center,Unknown,,FALSE,0,0,39.1836,-96.5717
+1109 sw topeka blvd,TOPEKA,7827,1109 SW Topeka Blvd.,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Immanuel Birth Co.,Unknown,,FALSE,0,0,39.0473,-95.6943
+1110 columbine dr,HOLTON,8003,1110 COLUMBINE DR,2,JACKSON,20085982600,0,0,0,0,0,0,0,,Holton Community Hospital - Holton Family Medicine,Unknown,,FALSE,0,0,39.4653,-95.7363
+1110 st mary's rd,JUNCTION CITY,12199,1110 St Mary's Rd,2,GEARY,20061000800,0,0,0,0,0,0,1,Occupational Medicine,FHC Specimen Drop Off,Unknown,,FALSE,0,0,39.0286,-96.8314
+1110 st marys rd,JUNCTION CITY,11749,1110 St Marys Rd,14,GEARY,20061000800,0,0,0,0,0,0,11,Cardiology | Endocrinology | Family Medicine | General Surgery | Internal Medicine | Maternal and Fetal Medicine | Nephrology | Obstetrics and Gynecology | Pediatrics | Primary Care | Psychiatry,FHC Outpatient Clinics,Outpatient Clinic,"FHC satellite — behavioral health, cardiology, family practice, internal med, workcare",TRUE,0,0,39.0286,-96.8314
+1112 se republican ave,TOPEKA,12792,1112 SE Republican Ave,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Providence Living Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+1115 main po box 247,SABETHA,8053,"1115 MAIN, PO BOX 247",1,NEMAHA,20131980100,0,0,0,0,0,0,0,,Sabetha Family Practice,Unknown,,FALSE,0,0,39.9022,-95.8008
+1115 sw harrison st,TOPEKA,12500,1115 SW Harrison St,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Khel- Kansas Health And Environmental Laboratories,Unknown,,FALSE,0,0,39.0473,-95.6943
+1119 gage,TOPEKA,7880,1119 Gage,3,SHAWNEE,20177003603,0,0,0,0,0,0,0,,"Iliff, R. Douglas Md",Unknown,,FALSE,0,0,39.0473,-95.6943
+1119 gage blvd,TOPEKA,11699,1119 Gage Blvd,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Christopher Stubbs,Unknown,,FALSE,0,0,39.0473,-95.6943
+1119 sw gage,TOPEKA,7949,1119 SW GAGE,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Minor Med-Toxicology,Unknown,,FALSE,0,0,39.0473,-95.6943
+1119 sw gage blvd,TOPEKA,8290,1119 SW Gage Blvd,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,St. Francis Family Medicine - Fleming Place,Unknown,,FALSE,0,0,39.0473,-95.6943
+112 sw 6th ave,TOPEKA,8104,112 SW 6th Ave. Suite 505,1,SHAWNEE,20177000600,0,0,0,0,0,0,0,,Gonzalez Iris Md,Unknown,,FALSE,0,0,39.0473,-95.6943
+1123 sw gage,TOPEKA,7967,1123 SW GAGE,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Topeka Allergy & Asthma Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1128 sw fairlawn po box 4795,TOPEKA,7901,1128 SW Fairlawn                                         PO Box 4795,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Lyndon Family Health Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1130 n kansas ave,TOPEKA,378,1130 N Kansas Ave,10,SHAWNEE,20177000700,0,0,0,0,0,0,4,Family Medicine | Lab | Radiology | Urgent Care,SV North Clinic,Outpatient Clinic,"Family practice, express care, lab",TRUE,0,0,39.0473,-95.6943
+1130 w 4th st,LAWRENCE,12764,1130 W. 4th Street,1,DOUGLAS,20045001500,0,0,0,0,0,0,0,,Lmh Heart Center,Unknown,,FALSE,0,0,38.9717,-95.2353
+1133 college,MANHATTAN,11600,1133 College Bldg E,1,RILEY,20161000900,0,0,0,0,0,0,1,Internal Medicine,Manhattan Care Clinic,Unknown,,FALSE,0,0,39.1836,-96.5717
+1133 college ave,MANHATTAN,433,1133 College Ave Bldg E Suite 210,46,RILEY,20161000900,0,0,0,0,0,0,20,Allergy | Cardiology | Cardiothoracic Surgery | Emergency Medicine | Endocrinology | Family Medicine | Gastroenterology | Hematology and Oncology | Infectious Diseases | Internal Medicine | Lab | Nephrology | Neurology | Neurosurgery | Pediatric Cardiology | Pediatric Endocrinology | Plastic Surgery | Psychiatry | Radiology | Urgent Care,Manhattan Cardiology,Unknown,,FALSE,0,0,39.1836,-96.5717
+1133 college ave bulg e,MANHATTAN,777,1133 COLLEGE AVE BULG E,1,*Unspecified,,0,0,0,0,0,0,0,,Manhattan Medical Facility,Unknown,,FALSE,0,0,39.1836,-96.5717
+118 w 4th,LEBO,372,118 W 4th,1,LYON,20139010300,0,0,0,0,0,0,1,Radiology,Lebo X-Ray,Unknown,,FALSE,0,0,38.4153,-95.8566
+118 w 4th st,LEBO,371,118 W 4th St,4,LYON,20139010300,0,0,0,0,0,0,3,Care Management | Family Medicine | Lab,Lebo Clinic,Unknown,,FALSE,0,0,38.4153,-95.8566
+120 w 8th st,ONAGA,7855,120 W 8th St,1,*Unspecified,20149000100,0,0,0,0,0,0,0,,Community Healthcare System Inc - Onaga,Unknown,,FALSE,0,0,39.4886,-96.1694
+120 w 8th st po box 460,ONAGA,7950,"120 W 8TH ST, PO BOX 460",1,POTTAWATOMIE,20149000100,0,0,0,0,0,0,0,,Onaga Community Health Systems-Toxicology,Unknown,,FALSE,0,0,39.4886,-96.1694
+120 west 8th st,ONAGA,11583,120 West 8th St,1,POTTAWATOMIE,20149000100,0,0,0,0,0,0,0,,Onaga Community Health Fair,Unknown,,FALSE,0,0,39.4886,-96.1694
+1201 w 12th ave,EMPORIA,8088,1201 W 12th Ave,1,LYON,20111000300,0,0,0,0,0,0,0,,Newman Regional Health,Unknown,,FALSE,0,0,38.4039,-96.1814
+1205 sw 29th redwood apt 530,TOPEKA,8241,1205 SW 29th Redwood Apt 530,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Meadowlark Hills Home Health At Brewster,Unknown,,FALSE,0,0,39.0473,-95.6943
+1205 sw 29th st,TOPEKA,8097,1205 SW 29th St,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Brewster Home Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+1212 walnut us hwy 59,OSKALOOSA,7885,1212 Walnut US Hwy 59,1,*Unspecified,20087020300,0,0,0,0,0,0,0,,Jefferson County Home Health,Unknown,,FALSE,0,0,39.2147,-95.3131
+1213 hylton heights rd,MANHATTAN,10547,"1213 Hylton Heights Rd, Suite 101",3,RILEY,20161000900,0,0,0,0,0,0,1,Gastroenterology,Manhattan Gi Hylton,Unknown,,FALSE,0,0,39.1836,-96.5717
+1251 sw arrowhead,TOPEKA,7882,"1251 SW Arrowhead, Suite 103",1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Interim Healthcare Of Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+1271 sw woodhall,TOPEKA,7869,1271 SW Woodhall,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Gage Center Dental Group,Unknown,,FALSE,0,0,39.0473,-95.6943
+1301 ne jefferson,TOPEKA,7830,1301 NE Jefferson,1,*Unspecified,20177000700,0,0,0,0,0,0,0,,Brighton Place North,Unknown,,FALSE,0,0,39.0473,-95.6943
+1301 w 12th,EMPORIA,277,1301 W 12th,27,LYON,20111000300,0,0,0,0,0,0,18,Allergy | Cardiology | Cardiothoracic Surgery | Endocrinology | Family Medicine | General Surgery | Internal Medicine | Lab | Nephrology | Neurology | Neurosurgery | Obstetrics and Gynecology | Orthopedic Surgery | Pediatric Endocrinology | Pediatrics | Physical Therapy | Pulmonology | Radiology,Emporia Family Practice,Unknown,,FALSE,0,0,38.4039,-96.1814
+1301 w 12th ave,EMPORIA,290,1301 W 12th Ave,3,LYON,20111000300,0,0,0,0,0,0,3,Cardiology | Occupational Medicine | Urology,Emporia Urology,Unknown,,FALSE,0,0,38.4039,-96.1814
+1301 w 12th avesuite 401,EMPORIA,295,"1301 W 12th Ave,Suite 401",1,LYON,20111000300,0,0,0,0,0,0,1,Hematology and Oncology,Emporia Peds Onc/Hem,Unknown,,FALSE,0,0,38.4039,-96.1814
+1301 w 12th st,EMPORIA,11702,1301 W 12th Street,1,LYON,,0,0,0,0,0,0,1,Occupational Medicine,Cotton O'Neil Emporia,Outpatient Clinic,"Multispecialty — allergy, cardiology, family practice, oncology, urology, surgery",TRUE,0,0,38.4039,-96.1814
+1301 w12th ave,EMPORIA,747,1301 W12TH AVE,1,*Unspecified,,0,0,0,0,0,0,0,,Emporia Medical Facility,Unknown,,FALSE,0,0,38.4039,-96.1814
+1303 sw first american pl,TOPEKA,8012,1303 SW FIRST AMERICAN PLACE,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Radiology And Nuclear Medicine,Unknown,,FALSE,0,0,39.0473,-95.6943
+131 w market st,OSAGE CITY,388,131 W Market St Ste B,10,OSAGE,20139010400,0,0,0,0,0,0,8,Allergy | Care Management | Endocrinology | Family Medicine | Lab | Orthopedic Surgery | Radiology | Urgent Care,Osage Clinic,Unknown,,FALSE,0,0,38.6334,-95.831
+1315 sw 6th ave,TOPEKA,10228,1315 SW 6th Ave,4,SHAWNEE,,0,0,0,0,0,0,3,Foot & Ankle | Lab | Radiology,Foot And Ankle Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1315 sw 6th st,TOPEKA,7889,"1315 SW 6th St, Ste A",1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Kansas Foot Care,Unknown,,FALSE,0,0,39.0473,-95.6943
+1322 lark ln,MADISON,7811,1322 Lark Lane,1,*Unspecified,55025001704,0,0,0,0,0,0,0,,East Side Manor,Unknown,,FALSE,0,0,38.1361,-96.1328
+1325 research park dr,MANHATTAN,12228,1325 Research Park Drive,23,RILEY,20161000900,0,0,0,0,0,0,15,Allergy | Bariatrics | Cardiology | Endocrinology | Gastroenterology | Infectious Diseases | Internal Medicine | Lab | Nephrology | Neurology | Neurosurgery | Plastic Surgery | Primary Care | Psychiatry | Radiology,Mhk Neuro Sur,Unknown,,FALSE,0,0,39.1836,-96.5717
+13351 s arapaho dr,OLATHE,725,13351 S ARAPAHO DR,1,JOHNSON,,0,0,0,0,0,0,0,,Olathe Medical Facility,Unknown,,FALSE,0,0,38.8814,-94.8191
+13450 s topeka ave,CARBONDALE,8065,13450 S Topeka Ave,1,OSAGE,20139010100,0,0,0,0,0,0,0,,Winter Meadow Homes - Carbondale,Unknown,,FALSE,0,0,38.8198,-95.6891
+1360 walnut st,OSKALOOSA,8050,1360 Walnut St,1,*Unspecified,20087020300,0,0,0,0,0,0,0,,Jefferson County Prison,Unknown,,FALSE,0,0,39.2147,-95.3131
+140 ne 46th st,TOPEKA,7881,140 NE 46th St,1,*Unspecified,20177003301,0,0,0,0,0,0,0,,Indian Creek Vet Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1402 sw lancaster st,TOPEKA,8047,1402 SW Lancaster St,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Hillsdale Place Llc,Unknown,,FALSE,0,0,39.0473,-95.6943
+1414 sw 8th,TOPEKA,149,1414 SW 8th,2,*Unspecified,20177000500,0,0,0,0,0,0,2,Lab | Radiology,Cancer Center X-Ray,Unknown,,FALSE,0,0,39.0473,-95.6943
+1414 sw 8th ave,TOPEKA,47,1414 SW 8th Ave,223,SHAWNEE,20177000500,0,0,0,0,1,0,9,Hematology and Oncology | Infusion Therapy | Oncology | Palliative Medicine | Pharmacy | Psychiatry | Radiation Oncology | Radiation Therapy | Radiology,Cotton O'Neil Cancer Center,Specialty,"Oncology, radiation, chemo, hematology",TRUE,0,0,39.0473,-95.6943
+1417 sw ash st,JUNCTION CITY,12181,1417 SW Ash St,2,GEARY,20061000800,0,0,0,0,0,0,0,,Valley View Senior Life,Unknown,,FALSE,0,0,39.0286,-96.8314
+1419 westport landing pl,MANHATTAN,11461,"1419 Westport Landing Place, Suite 103",2,RILEY,20161000900,0,0,0,0,0,0,0,,Man Gi Westport Lab,Unknown,,FALSE,0,0,39.1836,-96.5717
+1419 westport landing plste 103,MANHATTAN,11460,"1419 Westport Landing Place,Ste 103",1,RILEY,20161000900,0,0,0,0,0,0,1,Gastroenterology,Manhattan Gi Westport,Unknown,,FALSE,0,0,39.1836,-96.5717
+1500 sw 10th 2nd,TOPEKA,7955,1500 SW 10th                                             2nd Floor Pozez,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Baker University School Of Nursing,Unknown,,FALSE,0,0,39.0473,-95.6943
+1500 sw 10th ave,TOPEKA,20,1500 SW 10th Ave,3491,SHAWNEE,20177003603,1,1,1,1,1,0,25,Anesthesiology | Behavioral Health | Central Scheduling | Critical Care Medicine | Diabetes Services | Emergency Medicine | Gastroenterology | Hematology and Oncology | Internal Medicine | Lab | Maternal and Fetal Medicine | Neonatology | Neurology | Nuclear Medicine | Obstetrics | Occupational Therapy | Pediatric Critical Care Medicine | Pediatrics | Pharmacy | Physical Medicine and Rehabilitation | Physical Therapy | Pre-Admission Testing | Pulmonology | Radiology | Speech Therapy,Stormont Vail Hospital,Hospital,"Main campus — ED, ICU, L&D, OR, all inpatient",TRUE,1,1,39.0473,-95.6943
+1500 sw 10th ave 1st,TOPEKA,187,1500 SW 10th Ave 1st Floor North Tower,1,SHAWNEE,20177003603,0,0,0,0,0,0,1,Lab,Main Campus Lab Emp Ih,Unknown,,FALSE,0,0,39.0473,-95.6943
+1500 sw 10th st,TOPEKA,1,1500 SW 10th Street,26,SHAWNEE,20177003603,0,0,0,0,0,0,1,Wound Care,Wound Care Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+1500sw 10th ave,TOPEKA,12498,1500SW 10th Ave,1,SHAWNEE,20177003603,0,0,0,0,0,0,1,Diabetes Services,SV Diabetes Support,Unknown,,FALSE,0,0,39.0473,-95.6943
+1501 sw 10th ave,TOPEKA,134,1501 SW 10th Ave,1,SHAWNEE,20177003603,0,0,0,0,1,0,1,Pain Medicine,Anesthesia Pain Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1504 sw 8th,TOPEKA,7894,1504 SW 8th,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Kansas Rehab Hospital - Qi/Rm,Unknown,,FALSE,0,0,39.0473,-95.6943
+1504 sw 8th ave,TOPEKA,469,1504 SW 8th Ave,2,SHAWNEE,20177000500,0,0,0,0,0,0,1,Physical Therapy,Krh Outpatient Therapy,Unknown,,FALSE,0,0,39.0473,-95.6943
+1504 sw 8th st,TOPEKA,427,1504 SW 8th Street,1,SHAWNEE,20177003603,0,0,0,0,0,0,1,Occupational Medicine,Occupational Medicine,Unknown,,FALSE,0,0,39.0473,-95.6943
+1509 west 12th ave,EMPORIA,10370,1509 West 12th Avenue,1,LYON,20111000300,0,0,0,0,0,0,0,,Angels Care Home Health - Emporia,Unknown,,FALSE,0,0,38.4039,-96.1814
+1516 sw 6th,TOPEKA,786,1516 SW 6TH,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Topeka Urology Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1516 sw 6th ave,TOPEKA,468,1516 SW 6th Ave,9,SHAWNEE,20177000500,0,0,0,0,0,0,4,General Surgery | Lab | Occupational Medicine | Radiology,SV WorkCare,Outpatient Clinic,"Occupational health, work injury care",TRUE,0,0,39.0473,-95.6943
+1516 sw 6th st,TOPEKA,11705,1516 SW 6th Street,4,SHAWNEE,20177000500,0,0,0,0,0,0,2,Radiology | Urgent Care,6Th St Midtown Exp Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+1534 sw clay,TOPEKA,7931,1534 SW CLAY,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Shawnee County Cd Program,Unknown,,FALSE,0,0,39.0473,-95.6943
+1570 sw westport dr,TOPEKA,11667,1570 SW Westport Drive,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Plaza West Healthcare And Rehab Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+1600 community dr,SENECA,7908,1600 Community Dr,6,NEMAHA,20131480300,0,0,0,0,0,0,0,,Nemaha Valley Community Hospital,Unknown,,FALSE,0,0,39.8342,-96.0644
+16015 nighthawk rd,ESKRIDGE,7844,16015 Nighthawk Rd,1,WABAUNSEE,20197483200,0,0,0,0,0,0,0,,"Jennifer Howe, Dvm",Unknown,,FALSE,0,0,38.8609,-96.1125
+1603 w 4th st,HOLTON,8004,1603 W 4TH ST,2,JACKSON,20085982600,0,0,0,0,0,0,0,,Holton Family Health Clinic,Unknown,,FALSE,0,0,39.4653,-95.7363
+1610 sw 37th st,TOPEKA,12364,1610 SW 37th St,3,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Mccrite Plaza South,Unknown,,FALSE,0,0,39.0473,-95.6943
+1615 sw 8th,TOPEKA,7933,1615 SW 8TH,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Shawnee County Maternal & Infant,Unknown,,FALSE,0,0,39.0473,-95.6943
+1615 sw 8th ave,TOPEKA,73,1615 SW 8th Avenue,12,SHAWNEE,20177000500,0,0,0,0,1,0,1,Sleep Medicine,Sleep Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+1615 sw 8th st,TOPEKA,10539,1615 SW 8th St,2,SHAWNEE,20177003603,0,0,0,0,0,0,2,Internal Medicine | Primary Care,Covid Vaccine Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+1620 charles pl,MANHATTAN,8017,1620 CHARLES PL,1,RILEY,20161000900,0,0,0,0,0,0,0,,The Womens Health Group PA,Unknown,,FALSE,0,0,39.1836,-96.5717
+1620 wheeler st,EMPORIA,7866,1620 Wheeler St,1,*Unspecified,20111000300,0,0,0,0,0,0,0,,Flint Hills Care Center,Unknown,,FALSE,0,0,38.4039,-96.1814
+1640 charles pl,MANHATTAN,8009,1640 CHARLES PL STE 103,1,RILEY,20161000900,0,0,0,0,0,0,0,,Manhattan Dermatology PA,Unknown,,FALSE,0,0,39.1836,-96.5717
+1700 college,TOPEKA,7983,1700 COLLEGE,1,SHAWNEE,20177004000,0,0,0,0,0,0,0,,Washburn University Student Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+1700 sw college ave,TOPEKA,10382,1700 SW College Avenue,1,*Unspecified,,0,0,0,0,0,0,0,,Washburn Athletics Covid Testing,Unknown,,FALSE,0,0,39.0473,-95.6943
+1700 w 7th st,TOPEKA,7926,1700 W 7TH ST. SUITE 840,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Select Specialty Hospital,Unknown,,FALSE,0,0,39.0473,-95.6943
+1704 commercial circle,WAMEGO,418,1704 Commercial Circle,9,POTTAWATOMIE,20149000200,0,0,0,0,0,0,6,Allergy | Cardiology | Care Management | Family Medicine | Lab | Radiology,Wamego Clinic,Unknown,,FALSE,0,0,39.2022,-96.305
+1706 sw 10th,TOPEKA,7858,1706 SW 10th,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,"Dermatology, PA",Unknown,,FALSE,0,0,39.0473,-95.6943
+1709 sw medford ave,TOPEKA,8039,1709 SW Medford Ave Suite 100,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Kaw Valley Paramedical Services,Unknown,,FALSE,0,0,39.0473,-95.6943
+1800 se 21st st,TOPEKA,7980,1800 SE 21ST ST,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,"Visiting Nurses Cynthia Lewis, Ceo",Unknown,,FALSE,0,0,39.0473,-95.6943
+1800 sw fairmont rd,TOPEKA,7915,1800 SW Fairmont Rd,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Peggy Kelly House #2,Unknown,,FALSE,0,0,39.0473,-95.6943
+1815 sw westwood circle,TOPEKA,8150,1815 SW Westwood Circle,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Karaway Llc,Unknown,,FALSE,0,0,39.0473,-95.6943
+1829 college ave,MANHATTAN,8236,1829 College Ave,2,RILEY,20161000900,0,0,0,0,0,0,0,,Manhattan Surgical Hospital,Unknown,,FALSE,0,0,39.1836,-96.5717
+1919 sw 10th st,TOPEKA,7810,"1919 SW 10th St, Ste 22",1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,"Preventive Medicine Assoc., Llc",Unknown,,FALSE,0,0,39.0473,-95.6943
+1920 sw 32nd st,TOPEKA,10355,1920 SW 32nd St,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Providence Home Plus,Unknown,,FALSE,0,0,39.0473,-95.6943
+1931 sw arvonia pl,TOPEKA,7995,1931 SW Arvonia Place,1,SHAWNEE,20177003601,0,0,0,0,0,0,0,,Legend Senior Living At Capitol Ridge,Unknown,,FALSE,0,0,39.0473,-95.6943
+200 maine st,LAWRENCE,12523,200 Maine St Ste B,1,DOUGLAS,20045001500,0,0,0,0,0,0,0,,Lawrence-Douglas County Public Health,Unknown,,FALSE,0,0,38.9717,-95.2353
+200 sw frazier circle,TOPEKA,7904,200 SW Frazier Circle,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Midland Care Connection,Unknown,,FALSE,0,0,39.0473,-95.6943
+200 whiteway st,NETAWAKA,8864,200 Whiteway St,5,JACKSON,20013480600,0,0,0,0,0,0,3,Family Medicine | Lab | Radiology,Netawaka Clinic,Unknown,,FALSE,0,0,39.6053,-95.7202
+2001 claflin rd,MANHATTAN,723,2001 CLAFLIN RD,1,*Unspecified,,0,0,0,0,0,0,0,,Manhattan Medical Facility,Unknown,,FALSE,0,0,39.1836,-96.5717
+2010 w 10th st,TOPEKA,7824,2010 W. 10th St,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Advanced Foot Care Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+2011 grandview dr,WAMEGO,7842,2011 Grandview Dr,1,POTTAWATOMIE,20149000200,0,0,0,0,0,0,0,,Good Samaritan Society Valley Vista,Unknown,,FALSE,0,0,39.2022,-96.305
+2015 se 10th ave,TOPEKA,12534,2015 SE 10th Ave,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Advena Living On Tenth,Unknown,,FALSE,0,0,39.0473,-95.6943
+2025 little kitten ave,MANHATTAN,12374,2025 Little Kitten Ave,1,RILEY,20161000900,0,0,0,0,0,0,0,,Stoneybrook Health & Rehab,Unknown,,FALSE,0,0,39.1836,-96.5717
+2025 se california,TOPEKA,7932,2025 SE CALIFORNIA,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Shawnee County Health Clinic-California,Unknown,,FALSE,0,0,39.0473,-95.6943
+2025 se california ave,TOPEKA,8031,2025 SE California Avenue,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Gracemed Highland Park Family Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+206 grand ave,ST MARYS,7956,206 GRAND AVENUE,3,POTTAWATOMIE,20085082800,0,0,0,0,0,0,0,,St. Marys Health Center,Unknown,,FALSE,0,0,39.1944,-96.0708
+209 w jefferson st,OSKALOOSA,396,209 W Jefferson St,6,JEFFERSON,20087020300,0,0,0,0,0,0,4,Allergy | Family Medicine | Lab | Radiology,Oskaloosa Clinic,Unknown,,FALSE,0,0,39.2147,-95.3131
+2101 claflin rd,MANHATTAN,12259,2101 Claflin Rd,1,RILEY,20161000900,0,0,0,0,0,0,0,,Riley County Community Health Fair,Unknown,,FALSE,0,0,39.1836,-96.5717
+2107 frontage rd,HOLTON,8035,2107 Frontage Rd,1,JACKSON,20085982600,0,0,0,0,0,0,0,,"Heartland Veterinary Health Center, Llc",Unknown,,FALSE,0,0,39.4653,-95.7363
+211 east main st,CARBONDALE,167,211 East Main St,10,OSAGE,20139010100,0,0,0,0,1,0,5,Family Medicine | Lab | Orthopedic Surgery | Physical Therapy | Radiology,Zzcarb Outpatient Therapy,Unknown,,FALSE,0,0,38.8198,-95.6891
+2111 sw randolph,TOPEKA,7914,2111 SW Randolph,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Peggy Kelly House #1,Unknown,,FALSE,0,0,39.0473,-95.6943
+2113 sw gage blvd,TOPEKA,8054,2113 SW GAGE BLVD,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Shawnee Animal Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+2115 sw 10th st,TOPEKA,7930,2115 SW 10TH ST,3,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Shawnee County West 10Th Primary Care,Unknown,,FALSE,0,0,39.0473,-95.6943
+2121 sw chelsea dr,TOPEKA,7872,2121 SW Chelsea Dr,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Gentiva Hospice,Unknown,,FALSE,0,0,39.0473,-95.6943
+2134 sw westport dr,TOPEKA,12761,2134 SW Westport Dr.,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Midland Pace,Unknown,,FALSE,0,0,39.0473,-95.6943
+215 kansas,ALMA,7981,215 KANSAS,1,WABAUNSEE,20197983100,0,0,0,0,0,0,0,,Wabaunsee County Health Department,Unknown,,FALSE,0,0,38.9444,-96.2889
+2200 harvard rd,LAWRENCE,365,2200 Harvard Road Suite B,10,DOUGLAS,20045000702,0,0,0,0,0,0,8,Allergy | Endocrinology | Lab | Nephrology | Pediatric Endocrinology | Pediatric Hematology and Oncology | Radiology | Rheumatology,Lawrence X-Ray,Unknown,,FALSE,0,0,38.9717,-95.2353
+2200 sw 6th ave,TOPEKA,8005,2200 SW 6TH AVE,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Kansas Medical Clinic PA,Unknown,,FALSE,0,0,39.0473,-95.6943
+2201 sw 29th st,TOPEKA,8001,2201 SW 29TH ST,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,"Console, David A Md",Unknown,,FALSE,0,0,39.0473,-95.6943
+2231 sw wanamaker rd,TOPEKA,7874,2231 SW Wanamaker Rd,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Heartland Diagnostics,Unknown,,FALSE,0,0,39.0473,-95.6943
+2252 sw 10th ave,TOPEKA,470,2252 SW 10th Ave,5,SHAWNEE,20177003603,0,0,0,0,0,0,2,Internal Medicine | Pharmacy,SV Retail Pharmacy,Unknown,,FALSE,0,0,39.0473,-95.6943
+2260 sw 3rd st,TOPEKA,147,2260 SW 3rd Street Suite 002,1,SHAWNEE,20177000500,0,0,0,0,1,0,1,Radiology,SV Sds X-Ray,Unknown,,FALSE,0,0,39.0473,-95.6943
+227 blue earth pl,MANHATTAN,8032,"227 Blue Earth Place, Suite 209",1,RILEY,20161000900,0,0,0,0,0,0,0,,Quantum Health & Wellness,Unknown,,FALSE,0,0,39.1836,-96.5717
+2300 industrial rd,EMPORIA,7861,2300 Industrial Rd,1,*Unspecified,20111000300,0,0,0,0,0,0,0,,Emporia Presbyterian Manor,Unknown,,FALSE,0,0,38.4039,-96.1814
+2301 nw furman rd,TOPEKA,8296,2301 NW Furman Road,2,SHAWNEE,20177000700,0,0,0,0,0,0,0,,Highland Medical Laboratory,Unknown,,FALSE,0,0,39.0473,-95.6943
+2331 tuttle creek blvd,MANHATTAN,12766,2331 Tuttle Creek Blvd,1,RILEY,20161000900,0,0,0,0,0,0,0,,"Center Pointe Physicians, PA",Unknown,,FALSE,0,0,39.1836,-96.5717
+234 manor circle,ALMA,7953,234 Manor Circle,1,*Unspecified,20197983100,0,0,0,0,0,0,0,,Alma Manor,Unknown,,FALSE,0,0,38.9444,-96.2889
+2400 sw urish rd,TOPEKA,11536,2400 SW Urish Rd,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Rolling Hills Health & Rehab (Midwest Health),Unknown,,FALSE,0,0,39.0473,-95.6943
+2401 gillham rd,KANSAS CITY,7999,2401 GILLHAM RD,1,JACKSON,29095004100,0,0,0,0,0,0,0,,Childrens Mercy Hospital,Unknown,,FALSE,0,0,39.1155,-94.6268
+2410 sw urish rd,TOPEKA,8052,2410 SW URISH RD,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Rolling Hills Asst Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+2515 sw wanamaker rd,TOPEKA,12576,2515 SW Wanamaker Rd,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Brookfield Post Acute,Unknown,,FALSE,0,0,39.0473,-95.6943
+2526 w 15 ave,EMPORIA,7970,2526 W 15 AVE,1,LYON,20111000300,0,0,0,0,0,0,0,,"Topeka Ear, Nose And Throat - Emporia",Unknown,,FALSE,0,0,38.4039,-96.1814
+2600 nw rochester r,TOPEKA,425,2600 NW Rochester R,2,SHAWNEE,20177003301,0,0,0,0,0,0,2,Family Medicine | Lab,Walmart North Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+2600 nw rochester rd,TOPEKA,771,2600 NW ROCHESTER RD,1,*Unspecified,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+2600 sw east circle dr,TOPEKA,8029,2600 SW East Circle Drive,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Shawnee County Local Health Dept,Unknown,,FALSE,0,0,39.0473,-95.6943
+2601 sw 3rd st,TOPEKA,12798,2601 SW 3rd St Unit 1A,3,SHAWNEE,,0,0,0,0,0,0,2,Lab | Psychiatry,SV Outpatient Behavioral Health,Specialty,Outpatient behavioral health center,TRUE,0,0,39.0473,-95.6943
+2649 sw arrowhead rd,TOPEKA,7867,2649 SW Arrowhead Road,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Florence Crittenton Services,Unknown,,FALSE,0,0,39.0473,-95.6943
+2660 sw 3rd st,TOPEKA,88,2660 SW 3rd Street Suite 002,85,SHAWNEE,20177000500,0,0,1,0,1,0,9,Foot & Ankle | Lab | Neurology | Neurosurgery | Orthopedic Surgery | Pain Medicine | Physical Medicine and Rehabilitation | Physical Therapy | Radiology,Sds,Unknown,,FALSE,0,0,39.0473,-95.6943
+2700 w 30th ave,EMPORIA,7876,2700 W 30th Ave,1,*Unspecified,20111000300,0,0,0,0,0,0,0,,Holiday Resort,Unknown,,FALSE,0,0,38.4039,-96.1814
+2721 se 10th st,TOPEKA,8110,2721 SE 10th St,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Pine Ridge Family Health Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+280 east valley spring rd,AUBURN,11560,280 East Valley Spring Rd,1,SHAWNEE,20177003902,0,0,0,0,0,0,0,,Homestead Of Auburn,Unknown,,FALSE,0,0,38.9025,-95.8213
+2800 sw urish rd,TOPEKA,185,2800 SW Urish Rd,1,SHAWNEE,20177003603,0,0,0,0,0,0,1,Lab,Main Campus Lincoln Cntr West Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+2800 willow grove rd,MANHATTAN,11678,2800 Willow Grove Rd,1,*Unspecified,20161000900,0,0,0,0,0,0,0,,Ascension Living Via Christi Village - Manhattan,Unknown,,FALSE,0,0,39.1836,-96.5717
+2824 sw mulvane st,TOPEKA,8064,2824 SW Mulvane St,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Winter Meadow Homes North,Unknown,,FALSE,0,0,39.0473,-95.6943
+2830 sw urish rd,TOPEKA,640,2830 SW Urish Road,8,SHAWNEE,20177003603,0,0,0,0,0,0,3,Lab | Obstetrics and Gynecology | Radiology,SV Lincoln Center Urish,Outpatient Clinic,"OB/GYN, lab, ultrasound — west Topeka satellite",TRUE,0,0,39.0473,-95.6943
+2832 sw mulvane st,TOPEKA,8066,2832 SW Mulvane St,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Winter Meadow Homes South,Unknown,,FALSE,0,0,39.0473,-95.6943
+2835 sw mission wood dr,TOPEKA,7942,2835 SW MISSION WOOD DR,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,St Francis Family Medicine-Mission Woods,Unknown,,FALSE,0,0,39.0473,-95.6943
+2835 sw mission woods dr,TOPEKA,12789,"2835 SW Mission Woods Dr, Suite C",1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Ascend Health & Hospice,Unknown,,FALSE,0,0,39.0473,-95.6943
+2840 sw urish rd,TOPEKA,8011,2840 SW URISH RD,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Optimum Health Family Practice,Unknown,,FALSE,0,0,39.0473,-95.6943
+2850 sw mission woods dr,TOPEKA,7843,2850 SW Mission Woods Dr Ste 103,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Oasis Family Medicine,Unknown,,FALSE,0,0,39.0473,-95.6943
+2860 sw mission wood dr,TOPEKA,455,2860 SW Mission Wood Dr,3,SHAWNEE,20177003603,0,0,0,0,0,0,3,Lab | Pediatrics | Radiology,Pediatric Mission Woods,Unknown,,FALSE,0,0,39.0473,-95.6943
+2860 sw mission woods dr,TOPEKA,779,2860 SW MISSION WOODS DR,3,SHAWNEE,20177003603,0,0,0,0,0,0,2,Dermatology | Psychiatry,Mission Woods Derm,Unknown,,FALSE,0,0,39.0473,-95.6943
+2900 sw oakley,TOPEKA,7878,2900 SW Oakley,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Hospice Care Of Kansas,Unknown,,FALSE,0,0,39.0473,-95.6943
+2902 sw asbury dr,TOPEKA,10275,2902 SW Asbury Drive,9,SHAWNEE,20177003603,0,0,0,0,0,0,7,Care Management | Dermatology | Lab | Plastic Surgery | Primary Care | Psychiatry | Radiology,Asbury Behavior Med,Unknown,,FALSE,0,0,39.0473,-95.6943
+2909 se walnut dr,TOPEKA,193,2909 SE Walnut Dr,8,SHAWNEE,20177003001,0,0,0,0,0,0,5,Care Management | Internal Medicine | Lab | Radiology | Urgent Care,SV Croco Clinic,Outpatient Clinic,"Family practice, express care, lab",TRUE,0,0,39.0473,-95.6943
+2910 w hwy 50,EMPORIA,12378,2910 W Hwy 50 Suite D,1,LYON,20111000300,0,0,0,0,0,0,0,,Angels Care Hospice - Emporia,Unknown,,FALSE,0,0,38.4039,-96.1814
+2921 sw wanamaker dr,TOPEKA,7896,2921 SW Wanamaker Dr,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,KS Medical Clinic Dermatology,Unknown,,FALSE,0,0,39.0473,-95.6943
+2945 sw wanamaker dr,TOPEKA,8060,2945 SW Wanamaker Dr Suite B,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Phoenix Home Care & Hospice,Unknown,,FALSE,0,0,39.0473,-95.6943
+2955 sw wanamaker,TOPEKA,7875,2955 SW Wanamaker,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Heritage Mental Health Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+2955 sw wanamaker dr,TOPEKA,8043,2955 SW Wanamaker Dr Suite B,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Gateley Podiatry,Unknown,,FALSE,0,0,39.0473,-95.6943
+300 utah,HIAWATHA,7948,300 UTAH,1,BROWN,20013980700,0,0,0,0,0,0,0,,Hiawatha Community Hospital - Toxicology,Unknown,,FALSE,0,0,39.8525,-95.5341
+300 utah st - account payable #1396,HIAWATHA,7820,300 UTAH ST - Account Payable #1396,1,*Unspecified,20013980700,0,0,0,0,0,0,0,,Hiawatha Community Hospital,Unknown,,FALSE,0,0,39.8525,-95.5341
+31 maple st,MADISON,7813,31 Maple St,1,*Unspecified,55025010901,0,0,0,0,0,0,0,,Madison Manor,Unknown,,FALSE,0,0,38.1361,-96.1328
+3100 se illinois ave,TOPEKA,11602,3100 SE Illinois Ave.,1,SHAWNEE,20177003001,0,0,0,0,0,0,0,,"Graceful Home, Llc.",Unknown,,FALSE,0,0,39.0473,-95.6943
+3107 w 21st st,TOPEKA,7891,3107 W 21st St,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Kansas Neurological Institute,Unknown,,FALSE,0,0,39.0473,-95.6943
+312 pennsylvania,HOLTON,7883,312 Pennsylvania,1,*Unspecified,20085982600,0,0,0,0,0,0,0,,Jackson County Health Department,Unknown,,FALSE,0,0,39.4653,-95.7363
+320 s kansas,TOPEKA,7906,"320 S. Kansas, Suite 400",1,SHAWNEE,20177000600,0,0,0,0,0,0,0,,"Mitchell, Erik Md",Unknown,,FALSE,0,0,39.0473,-95.6943
+320 s kansas ave,TOPEKA,7935,320 S. KANSAS AVE.,1,SHAWNEE,20177000600,0,0,0,0,0,0,0,,Shawnee County Coroner,Unknown,,FALSE,0,0,39.0473,-95.6943
+3220 sw albright dr,TOPEKA,11535,3220 SW Albright Dr,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,The Gardens At Aldersgate Llc (Recover Care -Snf),Unknown,,FALSE,0,0,39.0473,-95.6943
+3224 sw 29th,TOPEKA,7910,3224 SW 29th,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Oak Creek Senior Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+325 sw frazier,TOPEKA,7865,325 SW Frazier,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Family Service And Guidance Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+330 sw oakley,TOPEKA,7979,330 SW OAKLEY,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Valeo Behavioral Health Care Css,Unknown,,FALSE,0,0,39.0473,-95.6943
+331 sw oakley,TOPEKA,7847,331 SW Oakley,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Brighton Place West,Unknown,,FALSE,0,0,39.0473,-95.6943
+3310 se 29th st,TOPEKA,7996,3310 SE 29th St Ste 300,1,SHAWNEE,20177003001,0,0,0,0,0,0,0,,St Francis At Lake Shawnee,Unknown,,FALSE,0,0,39.0473,-95.6943
+3314 sw front st,TOPEKA,7966,3314 SW FRONT ST,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Topeka Adult Care Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+3316 se 28th terr,TOPEKA,7860,3316 SE 28th Terr,1,*Unspecified,20177003001,0,0,0,0,0,0,0,,Topeka Dentistry,Unknown,,FALSE,0,0,39.0473,-95.6943
+3401 sw harrison st,TOPEKA,7937,3401 SW Harrison St,2,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Sheltered Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+3405 nw hunters ridge,TOPEKA,7961,3405 NW HUNTERS RIDGE STE 100,1,SHAWNEE,20177000700,0,0,0,0,0,0,0,,"Sunflower Prompt/Primary Care, Llc",Unknown,,FALSE,0,0,39.0473,-95.6943
+3408 se 29th st,TOPEKA,8240,3408 SE 29th St,1,SHAWNEE,20177003001,0,0,0,0,0,0,0,,Fresenius Kidney Care - East,Unknown,,FALSE,0,0,39.0473,-95.6943
+3415 sw 6th ave,TOPEKA,7987,3415 SW 6TH AVE,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Celebration Villa Of Hearthstone East,Unknown,,FALSE,0,0,39.0473,-95.6943
+346 maine st #400,LAWRENCE,11557,346 Maine Street #400,1,DOUGLAS,20045001500,0,0,0,0,0,0,0,,Sunflower Pediatric Eyecare & Strabismus,Unknown,,FALSE,0,0,38.9717,-95.2353
+3500 sw 6th,TOPEKA,7913,3500 SW 6th,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Pediatric Associates,Unknown,,FALSE,0,0,39.0473,-95.6943
+3515 sw 6th ave,TOPEKA,7988,3515 SW 6TH AVE,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Celebration Villa Of Hearthstone West,Unknown,,FALSE,0,0,39.0473,-95.6943
+3520 sw 6th ave,TOPEKA,299,3520 SW 6th Ave,10,SHAWNEE,20177000500,0,0,0,0,0,0,5,Endocrinology | Lab | Pediatric Endocrinology | Psychiatry | Radiology,6Th Frazier Endocrinology,Unknown,,FALSE,0,0,39.0473,-95.6943
+3520 sw 6th st,TOPEKA,7854,3520 SW 6th St,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Clinical Research Center - Code,Unknown,,FALSE,0,0,39.0473,-95.6943
+3566 62nd st,MERIDEN,11565,3566 62nd St,1,JEFFERSON,20177003302,0,0,0,0,0,0,0,,Kelly House Of Meriden South,Unknown,,FALSE,0,0,39.1876,-95.5685
+3600 sw burlingame rd,TOPEKA,8869,3600 SW Burlingame Rd Ste 1B,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Faith Home Healthcare,Unknown,,FALSE,0,0,39.0473,-95.6943
+3601 sw 29th st,TOPEKA,7846,"3601 SW 29th St Suite 12-4 Topeka, KS",1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Professional Behavioral Health Medicine Llc,Unknown,,FALSE,0,0,39.0473,-95.6943
+3620 sw fairlawn rd,TOPEKA,7895,3620 SW Fairlawn Rd. Suite 100,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Enhabit Home Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+3630 fairlawn rd,TOPEKA,7870,3630 FAIRLAWN RD,3,SHAWNEE,20177003605,0,0,0,0,0,0,0,,Genstler Eye Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+3707 sw 6th ave,TOPEKA,42,3707 SW 6th Ave,162,SHAWNEE,20177000500,0,0,0,0,1,0,2,Lab | Psychiatry,SV West (Behavioral Health),Specialty,"Behavioral health, psychiatry — adult, child/adolescent",TRUE,0,0,39.0473,-95.6943
+3711 sw wanamaker rd,TOPEKA,8046,3711 SW WANAMAKER RD,1,SHAWNEE,20177003605,0,0,0,0,0,0,0,,Wanamaker Dialysis (Davita Inc),Unknown,,FALSE,0,0,39.0473,-95.6943
+3715 sw 29th,TOPEKA,12745,3715 SW 29th Ste 100,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Elara Caring - Home Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+3715 sw 29th st,TOPEKA,7833,3715 SW 29th St. Ste 100,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Caregivers Home Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+3745 sw wannamaker rd,TOPEKA,7871,3745 SW Wannamaker Rd. Ste A,1,*Unspecified,20177003605,0,0,0,0,0,0,0,,Elara Caring - Hospice,Unknown,,FALSE,0,0,39.0473,-95.6943
+3901 rainbow blvd,KANSAS CITY,8007,3901 RAINBOW BLVD,1,WYANDOTTE,20209045200,0,0,0,0,0,0,0,,Kansas University Medical Center,Unknown,,FALSE,0,0,39.1155,-94.6268
+3931 gage center dr,TOPEKA,7859,3931 Gage Center Drive,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Dialysis Specialists Of Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+400 sw 8th,TOPEKA,11679,400 SW 8th,2,SHAWNEE,20177000600,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+400 sw 8th st,TOPEKA,11680,400 SW 8th St,3,SHAWNEE,20177000600,0,0,0,0,0,0,2,Lab | Occupational Medicine,SV Employee Health Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+400 sw oakley ave,TOPEKA,12878,400 SW Oakley Ave,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Center For Crisis & Healing,Unknown,,FALSE,0,0,39.0473,-95.6943
+4011 sw 29th st,TOPEKA,8010,4011 SW 29TH ST,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Med Assist PA,Unknown,,FALSE,0,0,39.0473,-95.6943
+4019 sw 10th ave,TOPEKA,8258,4019 SW 10th Ave,4,SHAWNEE,20177003603,0,0,0,0,0,0,1,Internal Medicine,SV Wellpower,Unknown,,FALSE,0,0,39.0473,-95.6943
+407 e wyandotte st,MERIDEN,374,407 E Wyandotte St,5,JACKSON,20177003302,0,0,0,0,0,0,3,Family Medicine | Lab | Radiology,Meriden Clinic,Unknown,,FALSE,0,0,39.1876,-95.5685
+4100 sw 15th,TOPEKA,452,4100 SW 15th,4,SHAWNEE,20177003603,0,0,0,0,0,0,4,Lab | Pediatrics | Psychiatry | Radiology,Pediatriccare,Unknown,,FALSE,0,0,39.0473,-95.6943
+4100 sw 15th st,TOPEKA,778,4100 SW 15TH ST,1,*Unspecified,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+4101 anderson ave,MANHATTAN,12767,4101 Anderson Ave,1,RILEY,20161000600,0,0,0,0,0,0,0,,Stonecreek Family Physicians,Unknown,,FALSE,0,0,39.1836,-96.5717
+4101 sw martin dr,TOPEKA,7992,4101 SW Martin Drive,1,SHAWNEE,20177002800,0,0,0,0,0,0,0,,Pathways Family Services,Unknown,,FALSE,0,0,39.0473,-95.6943
+415 sw 8th st,TOPEKA,458,415 SW 8th Street,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Pb Central Billing Office,Unknown,,FALSE,0,0,39.0473,-95.6943
+4201 anderson ave,MANHATTAN,8008,4201 ANDERSON AVE BLDG C,1,RILEY,20161000600,0,0,0,0,0,0,0,,Northeast Kansas Facial Plastic Ent & Pulmonology,Unknown,,FALSE,0,0,39.1836,-96.5717
+423 main st,ROSSVILLE,405,423 Main St,6,SHAWNEE,20085982800,0,0,0,0,0,0,4,Family Medicine | Internal Medicine | Lab | Radiology,Rossville Clinic,Unknown,,FALSE,0,0,39.1355,-95.9513
+4304 sw 17th,TOPEKA,8063,4304 SW 17th,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Tammy The Pro Home Plus,Unknown,,FALSE,0,0,39.0473,-95.6943
+440 se woodland,TOPEKA,11589,440 SE Woodland,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Countryside Mental Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+4454 industry ln,MADISON,7812,4454 Industry Lane,1,*Unspecified,55025001704,0,0,0,0,0,0,0,,West Side Manufacturing,Unknown,,FALSE,0,0,38.1361,-96.1328
+4505 nw fielding rd,TOPEKA,478,4505 NW Fielding Rd,11,SHAWNEE,20177000700,0,0,0,0,0,0,7,Bariatrics | Family Medicine | Lab | Physical Therapy | Psychiatry | Radiology | Urgent Care,SV North Fielding Clinic,Outpatient Clinic,"Family practice, express care, behavioral health",TRUE,0,0,39.0473,-95.6943
+4646 nw fielding rd,TOPEKA,7938,4646 NW FIELDING RD,1,SHAWNEE,20177000700,0,0,0,0,0,0,0,,St Francis Health Center At Hunter'S Ridge,Unknown,,FALSE,0,0,39.0473,-95.6943
+47 main st,MADISON,7814,47 Main St,1,*Unspecified,55025000205,0,0,0,0,0,0,0,,Isthmus Manufacturing,Unknown,,FALSE,0,0,38.1361,-96.1328
+4712 sw 6th,TOPEKA,7917,4712 SW 6th,3,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Presbyterian Manor - Assisted Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+4712 sw 6th st,TOPEKA,7919,4712 SW 6th St,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Presbyterian Manor - Prairie Point,Unknown,,FALSE,0,0,39.0473,-95.6943
+5000 sw 21st st,TOPEKA,7823,5000 SW 21st St,2,*Unspecified,20177003603,0,0,0,0,0,0,0,,"Abbott, Warren Dpm",Unknown,,FALSE,0,0,39.0473,-95.6943
+5015 sw 28th st,TOPEKA,12538,5015 SW 28th St,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Tanglewood Health And Rehab,Unknown,,FALSE,0,0,39.0473,-95.6943
+505 n main,ESKRIDGE,12536,505 N Main,1,WABAUNSEE,20197483200,0,0,0,0,0,0,0,,Eskridge Care And Rehab,Unknown,,FALSE,0,0,38.8609,-96.1125
+506 west 10th st,TOPEKA,7856,506 West 10th St,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Craig Homecare,Unknown,,FALSE,0,0,39.0473,-95.6943
+508 union st,OSKALOOSA,8291,508 Union St,1,JEFFERSON,20087020300,0,0,0,0,0,0,0,,Restwell Home Plus,Unknown,,FALSE,0,0,39.2147,-95.3131
+515 rockledge rd,LAWRENCE,12905,515 Rockledge Rd,1,DOUGLAS,20045000702,0,0,0,0,0,0,0,,Lawrence Birth & Wellness,Unknown,,FALSE,0,0,38.9717,-95.2353
+515 sw horne st,TOPEKA,8024,515 SW Horne St Suite 102,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Pelvic Health Specialist (Cathy Dahl Do),Unknown,,FALSE,0,0,39.0473,-95.6943
+519 mccall rd,MANHATTAN,12746,519 McCall Rd Ste 100,1,RILEY,20161000900,0,0,0,0,0,0,0,,Davita Manhattan Dialysis,Unknown,,FALSE,0,0,39.1836,-96.5717
+5218 sw 28th st,TOPEKA,7849,5218 SW 28th St,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Ricks Advanced Dermatology & Skin Surgery,Unknown,,FALSE,0,0,39.0473,-95.6943
+5227 se 77th st,BERRYTON,8028,5227 SE 77th St,1,*Unspecified,20177003901,0,0,0,0,0,0,0,,Prairie Wind Senior Living,Unknown,,FALSE,0,0,38.9389,-95.5669
+530 n ridge rd,WICHITA,11690,530 N Ridge Rd Suite B,1,SEDGWICK,20173008600,0,0,0,0,0,0,0,,Mobile Medical,Unknown,,FALSE,0,0,37.6872,-97.3301
+5375 sw 7th,TOPEKA,8037,5375 SW 7th Suite 600,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Angels Care Home Health - Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+5375 sw 7th st,TOPEKA,8239,5375 SW 7th St,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Gentiva Hospice,Unknown,,FALSE,0,0,39.0473,-95.6943
+5400 w 7th,TOPEKA,7862,5400 W 7th,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Fairlawn Heights Nursing Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+5800 sw drury ln,TOPEKA,7836,5800 SW Drury Lane,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Brookdale Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+5820 drury ln,TOPEKA,7877,5820 Drury Lane,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Homestead Assisted Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+5820 sw drury ln,TOPEKA,11603,5820 SW Drury Lane,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Homestead Of Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+5835 sw 29th st,TOPEKA,8294,5835 SW 29th St. Ste 200,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,St Croix Hospice - Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+5847 sw 29th st,TOPEKA,7957,5847 SW 29TH ST,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Stonestreet Professional Offices,Unknown,,FALSE,0,0,39.0473,-95.6943
+590 industrial trwy,ROSSVILLE,8019,590 Industrial Trwy,1,SHAWNEE,20085982800,0,0,0,0,0,0,0,,Oakley Place Of Rossville,Unknown,,FALSE,0,0,39.1355,-95.9513
+600 e perry st,ROSSVILLE,7923,600 E PERRY ST,1,SHAWNEE,20085982800,0,0,0,0,0,0,0,,Rossville Healthcare And Rehab Center,Unknown,,FALSE,0,0,39.1355,-95.9513
+600 sw jewell,TOPEKA,7940,600 SW JEWELL,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,St Francis Family Medicine,Unknown,,FALSE,0,0,39.0473,-95.6943
+6001 sw 6th ave,TOPEKA,8013,6001 SW 6TH AVE STE 220,2,SHAWNEE,20177003601,0,0,0,0,0,0,0,,St Francis Health Center General Vascular And Bariatric Surgery At Tallgrass,Unknown,,FALSE,0,0,39.0473,-95.6943
+6001 sw 6th st,TOPEKA,7939,"6001 SW 6TH ST, STE 320",3,SHAWNEE,20177003601,0,0,0,0,0,0,0,,St Francis Health Center At River Hill,Unknown,,FALSE,0,0,39.0473,-95.6943
+601 corporate veiw rd,TOPEKA,8247,601 Corporate Veiw Rd Suite 200,1,SHAWNEE,,0,0,0,0,0,0,1,Occupational Medicine,Workcare Corporate,Unknown,,FALSE,0,0,39.0473,-95.6943
+601 sw corporate view,TOPEKA,7941,601 SW CORPORATE VIEW,2,SHAWNEE,20177003601,0,0,0,0,0,0,0,,St Francis Female Pelvic Medicine & Reconstructive Surgery,Unknown,,FALSE,0,0,39.0473,-95.6943
+601 sw corporate view rd,TOPEKA,834,"601 SW Corporate View Rd, Suite 200",9,SHAWNEE,20177003601,0,0,0,0,0,0,4,Family Medicine | Lab | Radiology | Urgent Care,Corporate View Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+6135 sw 17th st,TOPEKA,10265,6135 SW 17th Street,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Topeka Er & Hospital,Unknown,,FALSE,0,0,39.0473,-95.6943
+616 commercial st,ATCHISON,11683,616 Commercial St.,1,*Unspecified,20005981600,0,0,0,0,0,0,0,,Atchison County Health Department,Unknown,,FALSE,0,0,39.5631,-95.1214
+618 sw oakley ave,TOPEKA,7909,618 SW Oakley Ave,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Oakley Place #1,Unknown,,FALSE,0,0,39.0473,-95.6943
+619 sw corporate view,TOPEKA,7873,619 SW Corporate View,2,SHAWNEE,20177003601,0,0,0,0,0,0,0,,Heartland Eye Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+6300 sw 6th ave,TOPEKA,8025,6300 SW 6th Ave,2,SHAWNEE,20177003601,0,0,0,0,0,0,0,,The Healthcare Resort Of Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+631 horne,TOPEKA,7863,"631 Horne, Suite 300",3,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Family Health Topeka,Unknown,,FALSE,0,0,39.0473,-95.6943
+6313 k-4 hwy,MERIDEN,7857,6313 K-4 Hwy,1,*Unspecified,20177003302,0,0,0,0,0,0,0,,Deer Park Senior Group Home,Unknown,,FALSE,0,0,39.1876,-95.5685
+6313 ks-4,MERIDEN,11566,6313 KS-4,1,JEFFERSON,20177003302,0,0,0,0,0,0,0,,Kelly House Of Meriden North,Unknown,,FALSE,0,0,39.1876,-95.5685
+634 mulvane,TOPEKA,8048,"634 Mulvane, Suite 106",1,*Unspecified,20177000500,0,0,0,0,0,0,0,,"Hoherz, David Md",Unknown,,FALSE,0,0,39.0473,-95.6943
+634 sw mulvane,TOPEKA,7834,634 SW Mulvane Suite 209,3,SHAWNEE,20177003603,0,0,0,0,0,0,0,,St Francis Health Womens Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+634 sw mulvane st,TOPEKA,8044,634 SW Mulvane St Suite 300,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Topeka Dialysis Center (Davita Inc),Unknown,,FALSE,0,0,39.0473,-95.6943
+6650 sw mission valley dr,TOPEKA,203,6650 SW Mission Valley Dr,6,SHAWNEE,20177003603,0,0,0,0,0,0,3,Dermatology | Lab | Urgent Care,Mission Dermatology,Unknown,,FALSE,0,0,39.0473,-95.6943
+6725 sw 29 st,TOPEKA,412,6725 SW 29 St,5,SHAWNEE,20177003603,0,0,0,0,0,0,4,Family Medicine | Lab | Radiology | Urgent Care,Urish Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+6725 sw 29th st,TOPEKA,416,6725 SW 29th ST,3,SHAWNEE,20177003603,0,0,0,0,0,0,2,Care Management | Lab,SV Urish Clinic,Outpatient Clinic,"Family practice, express care, lab, x-ray",TRUE,0,0,39.0473,-95.6943
+6730 sw 29th st,TOPEKA,7994,6730 SW 29th St,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,St Francis Sfpc - Diabetes Management Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+6730 sw mission view dr,TOPEKA,7971,6730 SW MISSION VIEW DRIVE,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Topeka Ob/Gyn (West),Unknown,,FALSE,0,0,39.0473,-95.6943
+6732 sw 17th st,TOPEKA,12490,6732 SW 17th St,1,SHAWNEE,20177003601,0,0,0,0,0,0,0,,Cedarhurst,Unknown,,FALSE,0,0,39.0473,-95.6943
+6750 sw 29th st,TOPEKA,7888,6750 SW 29th St,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Kids First Pediatric Urgent Care,Unknown,,FALSE,0,0,39.0473,-95.6943
+700 cherokee,OSKALOOSA,7879,700 Cherokee,1,*Unspecified,20087020300,0,0,0,0,0,0,0,,Hickory Pointe Care And Rehab Center,Unknown,,FALSE,0,0,39.2147,-95.3131
+701 missouri ave,ALMA,190,701 Missouri Ave,4,WABAUNSEE,20087020200,0,0,0,0,0,0,2,Family Medicine | Lab,Alma Clinic,Unknown,,FALSE,0,0,38.9444,-96.2889
+708 oregon st,HIAWATHA,8293,708 Oregon St.,1,BROWN,20013980700,0,0,0,0,0,0,0,,St Croix Hospice - Hiawatha,Unknown,,FALSE,0,0,39.8525,-95.5341
+715 washington st,LYNDON,463,715 Washington St,3,OSAGE,20139010300,0,0,0,0,0,0,2,Family Medicine | Lab,Lyndon Clinic,Unknown,,FALSE,0,0,38.6101,-95.6835
+715 washington st box 171,LYNDON,782,715 WASHINGTON ST BOX 171 STE B,1,*Unspecified,,0,0,0,0,0,0,0,,Lyndon Medical Facility,Unknown,,FALSE,0,0,38.6101,-95.6835
+720 sw ln 2nd flood,TOPEKA,7852,720 SW Lane 2nd Flood,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Clinical Research Digestive Health Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+720 sw ln st,TOPEKA,199,720 SW Lane St,6,SHAWNEE,20177000500,0,0,0,0,1,0,3,Gastroenterology | Lab | Radiology,Dhc Gastroenterology,Unknown,,FALSE,0,0,39.0473,-95.6943
+7200 uxbridge circle,TOPEKA,8229,7200 Uxbridge Circle,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Aldersgate Village Home Plus,Unknown,,FALSE,0,0,39.0473,-95.6943
+7210 hwy k4,MERIDEN,7903,"7210 Hwy K4, Suite C",1,JEFFERSON,20177003302,0,0,0,0,0,0,0,,Meriden Home Care,Unknown,,FALSE,0,0,39.1876,-95.5685
+7220 asbury dr,TOPEKA,7821,7220 Asbury Dr.,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Aldersgate Village Assisted Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+7220 sw asbury dr,TOPEKA,7825,7220 SW Asbury Drive,1,*Unspecified,20177003603,0,0,0,0,0,0,0,,Aldersgate Village Independent Living,Unknown,,FALSE,0,0,39.0473,-95.6943
+7240 sw 10th ave,TOPEKA,11682,7240 SW 10th Ave,1,SHAWNEE,20177003601,0,0,0,0,0,0,0,,The Villages Inc,Unknown,,FALSE,0,0,39.0473,-95.6943
+731 sw mulvane st,TOPEKA,154,731 SW Mulvane St,22,SHAWNEE,20177003603,0,0,0,0,1,0,1,Radiology,SV Imaging Center,Specialty,Radiology and imaging,TRUE,0,0,39.0473,-95.6943
+747 nw walnut ln,TOPEKA,7997,747 NW WALNUT LN,1,SHAWNEE,20177003301,0,0,0,0,0,0,0,,Autumn Home Plus,Unknown,,FALSE,0,0,39.0473,-95.6943
+800 sw jackson st,TOPEKA,10364,800 SW Jackson Street Suite 700,1,SHAWNEE,20177000500,0,0,0,0,0,0,0,,"Kansas Foundation For Medical Care, Inc",Unknown,,FALSE,0,0,39.0473,-95.6943
+800 sw lincoln,TOPEKA,7899,800 SW Lincoln,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Lincoln Center - Environmental Cultures,Unknown,,FALSE,0,0,39.0473,-95.6943
+800 sw lincoln st,TOPEKA,184,800 SW Lincoln St,12,SHAWNEE,20177000500,0,0,0,0,0,0,4,Lab | Obstetrics and Gynecology | Psychiatry | Radiology,SV Lincoln Center,Outpatient Clinic,"OB/GYN, behavioral health, lab, ultrasound",TRUE,0,0,39.0473,-95.6943
+814 caroline ave,JUNCTION CITY,722,814 CAROLINE AVE,1,*Unspecified,,0,0,0,0,0,0,0,,Junction City Medical Facility,Unknown,,FALSE,0,0,39.0286,-96.8314
+815 se rice rd,TOPEKA,7921,815 SE Rice Road,1,SHAWNEE,20177003901,0,0,0,0,0,0,0,,Prison Health Service,Unknown,,FALSE,0,0,39.0473,-95.6943
+823 mulvane,TOPEKA,7826,823 Mulvane Suite 200,3,SHAWNEE,20177000500,0,0,0,0,0,0,0,,"Baraban, Mark Md",Unknown,,FALSE,0,0,39.0473,-95.6943
+823 sw mulvane,TOPEKA,45,823 SW Mulvane Ste 101,57,SHAWNEE,20177000500,0,0,0,0,1,0,6,Family Medicine | Internal Medicine | Lab | Pain Medicine | Psychiatry | Radiology,Pain Clinic,Unknown,,FALSE,0,0,39.0473,-95.6943
+823 sw mulvane st,TOPEKA,164,823 SW Mulvane St,29,SHAWNEE,20177000500,0,0,0,0,1,0,17,Bariatrics | Family Medicine | General Surgery | Internal Medicine | Lab | Nephrology | Neurosurgery | Ophthalmology | Orthopedic Surgery | Pain Medicine | Palliative Medicine | Plastic Surgery | Pulmonology | Radiology | Research | Urology | Wound Care,SV Pain Clinic (823 Mulvane),Outpatient Clinic,"Pain management, urology, bariatrics, breast diagnostic, surgery",TRUE,0,0,39.0473,-95.6943
+830 mulvane,TOPEKA,12768,830 Mulvane,1,SHAWNEE,20177000500,0,0,0,0,0,0,1,Psychiatry,830 Behavioral Med,Unknown,,FALSE,0,0,39.0473,-95.6943
+830 sw ln,TOPEKA,12421,"830 SW Lane, Suite A",1,SHAWNEE,20177000500,0,0,0,0,0,0,1,Lab,Maternal Fetal Lab SV,Unknown,,FALSE,0,0,39.0473,-95.6943
+830 sw ln st,TOPEKA,466,830 SW Lane St,5,SHAWNEE,20177000500,0,0,0,0,0,0,3,Internal Medicine | Maternal and Fetal Medicine | Pharmacy,Healthwise,Unknown,,FALSE,0,0,39.0473,-95.6943
+830 sw mulvane,TOPEKA,12762,830 SW Mulvane,1,SHAWNEE,20177000500,0,0,0,0,0,0,1,Palliative Medicine,Outpatient Palliative Medicine,Unknown,,FALSE,0,0,39.0473,-95.6943
+830 sw mulvane st,TOPEKA,206,830 SW Mulvane St,4,SHAWNEE,20177000500,0,0,0,0,0,0,3,Cardiothoracic Surgery | Lab | Radiology,Cardiothoracic Surgery,Unknown,,FALSE,0,0,39.0473,-95.6943
+830 sw muvane st,TOPEKA,746,830 SW MUVANE ST,1,*Unspecified,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+837 nw harrison,TOPEKA,7954,837 NW Harrison,1,*Unspecified,20177000700,0,0,0,0,0,0,0,,American Medical Exams PA,Unknown,,FALSE,0,0,39.0473,-95.6943
+876 oak ln,MADISON,7815,876 Oak Ln,1,*Unspecified,55025000205,0,0,0,0,0,0,0,,Mendota Nursing,Unknown,,FALSE,0,0,38.1361,-96.1328
+901 garfield ave,TOPEKA,10245,901 Garfield Ave,1,SHAWNEE,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+901 s kansas ave,TOPEKA,8237,901 S Kansas Ave,2,SHAWNEE,20177000500,0,0,0,0,0,0,0,,Healthquest Health Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+901 sw garfield,TOPEKA,186,901 SW Garfield,4,SHAWNEE,20177000500,0,0,0,0,0,0,4,Internal Medicine | Lab | Neurology | Psychiatry,Main Campus Op Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+901 sw garfield ave,TOPEKA,155,901 SW Garfield Ave,45,SHAWNEE,20177000500,0,0,0,0,1,0,14,Allergy | Bariatrics | Care Management | Family Medicine | Infectious Diseases | Internal Medicine | Lab | Nephrology | Neurology | Primary Care | Pulmonology | Radiology | Rheumatology | Urgent Care,Cotton O'Neil Main Clinic,Outpatient Clinic,"Multispecialty outpatient — family practice, internal med, bariatrics, neurology",TRUE,0,0,39.0473,-95.6943
+907 s 2nd st,HIAWATHA,7831,907 S 2nd St,1,*Unspecified,20013980700,0,0,0,0,0,0,0,,Brown County Health Department,Unknown,,FALSE,0,0,39.8525,-95.5341
+909 mulvane st,TOPEKA,8224,909 Mulvane St,1,SHAWNEE,,0,0,0,0,0,0,1,Lab,909 Intensivist Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+909 mulvane st lower level infusion center,TOPEKA,116,"909 Mulvane St Lower Level, Infusion Center",1,SHAWNEE,20177003603,0,0,0,0,1,0,0,,Enterostomal Therapy,Unknown,,FALSE,0,0,39.0473,-95.6943
+909 sw mulvane,TOPEKA,791,909 SW Mulvane,1,SHAWNEE,,0,0,0,0,0,0,0,,Topeka Medical Facility,Unknown,,FALSE,0,0,39.0473,-95.6943
+909 sw mulvane st,TOPEKA,384,909 SW Mulvane St,11,SHAWNEE,20177000500,0,0,0,0,0,0,7,Allergy | Internal Medicine | Lab | Orthopedic Surgery | Physical Therapy | Radiology | Urgent Care,Kosm Ortho,Unknown,,FALSE,0,0,39.0473,-95.6943
+920 sw ln,TOPEKA,7960,920 SW LANE,2,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Stormont-Vail Excellent Surgery Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+920 sw ln st,TOPEKA,125,920 SW Lane St,221,SHAWNEE,20177000500,0,0,1,0,0,0,1,Otolaryngology,SV Excellent Surgery Center,Specialty,"Ambulatory surgery, pre/post-op",TRUE,0,0,39.0473,-95.6943
+920 sw ln st #200,TOPEKA,12702,920 SW Lane St. #200,6,SHAWNEE,20177000500,0,0,0,0,0,0,3,Lab | Otolaryngology | Radiology,Topeka Ear Nose And Throat Imaging,Unknown,,FALSE,0,0,39.0473,-95.6943
+920 sw washburn,TOPEKA,9254,920 SW Washburn,3,SHAWNEE,,0,0,0,0,0,0,2,Lab | Urgent Care,920 Wash Express Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+920 sw washburn ave,TOPEKA,72,920 SW Washburn Ave 340B00935100SV,22,SHAWNEE,,0,0,0,0,1,0,0,,Sleep Lab,Unknown,,FALSE,0,0,39.0473,-95.6943
+929 mulvane,TOPEKA,7984,929 MULVANE,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Womens Heart Advantage,Unknown,,FALSE,0,0,39.0473,-95.6943
+929 sw mulvane,TOPEKA,51,929 SW Mulvane,46,SHAWNEE,20177000500,0,0,0,0,1,0,3,Cardiac Rehabilitation | Cardiology | Radiology,Cardiac Rehab Hc,Unknown,,FALSE,0,0,39.0473,-95.6943
+929 sw mulvane st,TOPEKA,62,929 SW Mulvane St,58,SHAWNEE,20177000500,0,0,0,0,1,0,6,Cardiology | Cardiothoracic Surgery | Lab | Pediatric Cardiology | Psychiatry | Radiology,SV Heart Center,Specialty,"Cardiology, cardiothoracic surgery, vein clinic, cardiac imaging",TRUE,0,0,39.0473,-95.6943
+9300 e 29th st,WICHITA,8016,9300 E 29TH ST STE 102,1,SEDGWICK,20173010104,0,0,0,0,0,0,0,,The Center For Reproductive Medicin,Unknown,,FALSE,0,0,37.6872,-97.3301
+accounts payable c/o angela rumbley,TOPEKA,7892,Accounts Payable c/o Angela Rumbley,3,*Unspecified,20177000500,0,0,0,0,0,0,0,,Kansas Rehab Hospital,Unknown,,FALSE,0,0,39.0473,-95.6943
+attn: phil salazer ms t-115a,TOPEKA,7978,Attn: Phil Salazer MS T-115A,1,SHAWNEE,20177001601,0,0,0,0,0,0,0,,Va Hospital,Unknown,,FALSE,0,0,39.0473,-95.6943
+barb weybrew financial management 3rd & macvicar,TOPEKA,7959,Barb Weybrew Financial Management 3rd & MacVicar,8,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Stormont-Vail Human Resources/Employee Health,Unknown,,FALSE,0,0,39.0473,-95.6943
+financial management 3rd & macvicar 1500 sw 10th ave,TOPEKA,8026,Financial Management 3rd & MacVicar 1500 SW 10th Ave,1,SHAWNEE,20177003603,0,0,0,0,0,0,0,,Infection Prevention And Control - Nicu,Unknown,,FALSE,0,0,39.0473,-95.6943
+jane c stormont women's center 823 mulvane,TOPEKA,7828,Jane C. Stormont Women's Center                 823 Mulvane Suite 102,1,*Unspecified,20177000500,0,0,0,0,0,0,0,,Breast Diagnostic Center,Unknown,,FALSE,0,0,39.0473,-95.6943
+po box 228,WAMEGO,7922,PO Box 228,1,POTTAWATOMIE,20149000200,0,0,0,0,0,0,0,,Prn Home Health And Hospice,Unknown,,FALSE,0,0,39.2022,-96.305
+po box 229,SABETHA,7925,PO BOX 229,1,NEMAHA,20131980100,0,0,0,0,0,0,0,,Sabetha Community Hospital,Unknown,,FALSE,0,0,39.9022,-95.8008
+po box 327,OSKALOOSA,7884,PO Box 327,1,*Unspecified,20087020300,0,0,0,0,0,0,0,,Jefferson County Court Services,Unknown,,FALSE,0,0,39.2147,-95.3131
+po box 5555 2320 se 23rd,TOPEKA,7840,PO Box 5555 2320 SE 23rd,1,*Unspecified,20177003001,0,0,0,0,0,0,0,,Clarence M. Kelly Youth Center,Unknown,,FALSE,0,0,39.0473,-95.6943

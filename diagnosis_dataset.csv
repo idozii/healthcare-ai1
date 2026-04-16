@@ -1,0 +1,801 @@
+text,disease
+"I have nasal congestion, runny nose.",Common Cold
+"I feel mild cough, runny nose.",Common Cold
+"I am experiencing runny nose, mild cough.",Common Cold
+"I am experiencing fatigue, nasal congestion.",Common Cold
+"I feel mild cough, nasal congestion, fatigue.",Common Cold
+"Symptoms include runny nose, nasal congestion, mild cough.",Common Cold
+"Lately I have been having nasal congestion, sneezing, fatigue.",Common Cold
+"I have fatigue, nasal congestion.",Common Cold
+"Lately I have been having mild cough, sore throat, sneezing, runny nose.",Common Cold
+"I am experiencing sore throat, nasal congestion, sneezing.",Common Cold
+"Symptoms include fatigue, nasal congestion, mild cough.",Common Cold
+"Lately I have been having sore throat, mild cough.",Common Cold
+"Lately I have been having fatigue, mild cough, sore throat, sneezing.",Common Cold
+"Symptoms include nasal congestion, fatigue, sneezing.",Common Cold
+"Lately I have been having mild cough, nasal congestion, sore throat, fatigue.",Common Cold
+"I am experiencing fatigue, runny nose, nasal congestion, sneezing.",Common Cold
+"I feel mild cough, runny nose, sneezing.",Common Cold
+"I am experiencing sneezing, sore throat, fatigue.",Common Cold
+"I have sneezing, fatigue.",Common Cold
+"I have fatigue, nasal congestion, runny nose, sneezing.",Common Cold
+"Symptoms include fatigue, nasal congestion.",Common Cold
+"Symptoms include nasal congestion, sneezing.",Common Cold
+"I feel fatigue, runny nose, sore throat, sneezing.",Common Cold
+"I have fatigue, sneezing, nasal congestion, runny nose.",Common Cold
+"I feel fatigue, sneezing.",Common Cold
+"I am experiencing nasal congestion, sneezing, sore throat, fatigue.",Common Cold
+"I have nasal congestion, fatigue, runny nose, mild cough.",Common Cold
+"Lately I have been having fatigue, sore throat.",Common Cold
+"I feel runny nose, mild cough.",Common Cold
+"Lately I have been having sore throat, nasal congestion, runny nose, mild cough.",Common Cold
+"I have mild cough, runny nose.",Common Cold
+"I have sore throat, mild cough, nasal congestion, runny nose.",Common Cold
+"I am experiencing fatigue, sneezing, runny nose.",Common Cold
+"I have sore throat, sneezing, runny nose.",Common Cold
+"Symptoms include mild cough, runny nose, nasal congestion.",Common Cold
+"I have runny nose, sneezing.",Common Cold
+"I have sneezing, sore throat, runny nose, mild cough.",Common Cold
+"Lately I have been having mild cough, fatigue.",Common Cold
+"I feel fatigue, runny nose, nasal congestion.",Common Cold
+"I feel sore throat, mild cough.",Common Cold
+"Lately I have been having fatigue, runny nose, mild cough.",Common Cold
+"I am experiencing nasal congestion, fatigue, runny nose, mild cough.",Common Cold
+"I am experiencing mild cough, sneezing.",Common Cold
+"I am experiencing mild cough, fatigue, sneezing, runny nose.",Common Cold
+"I have mild cough, fatigue.",Common Cold
+"I feel nasal congestion, sore throat.",Common Cold
+"I feel runny nose, sore throat.",Common Cold
+"Lately I have been having sneezing, sore throat, runny nose.",Common Cold
+"I am experiencing fatigue, runny nose.",Common Cold
+"Symptoms include mild cough, sore throat, fatigue.",Common Cold
+"Symptoms include nasal congestion, runny nose.",Common Cold
+"Lately I have been having sneezing, mild cough.",Common Cold
+"Lately I have been having nasal congestion, sneezing, fatigue, mild cough.",Common Cold
+"I feel sore throat, sneezing, fatigue.",Common Cold
+"I feel runny nose, sore throat, fatigue, nasal congestion.",Common Cold
+"I am experiencing nasal congestion, sore throat, runny nose, mild cough.",Common Cold
+"Symptoms include fatigue, nasal congestion.",Common Cold
+"Lately I have been having runny nose, nasal congestion.",Common Cold
+"Symptoms include sore throat, runny nose, mild cough, sneezing.",Common Cold
+"I am experiencing mild cough, fatigue, sneezing, sore throat.",Common Cold
+"Lately I have been having runny nose, sore throat.",Common Cold
+"I feel runny nose, fatigue, sore throat, mild cough.",Common Cold
+"Lately I have been having nasal congestion, sneezing.",Common Cold
+"I am experiencing fatigue, sore throat, sneezing.",Common Cold
+"Symptoms include sore throat, runny nose, nasal congestion.",Common Cold
+"Symptoms include nasal congestion, fatigue.",Common Cold
+"Lately I have been having fatigue, nasal congestion, sneezing, runny nose.",Common Cold
+"Symptoms include sneezing, sore throat, runny nose, nasal congestion.",Common Cold
+"I feel mild cough, fatigue.",Common Cold
+"Symptoms include sneezing, mild cough, sore throat.",Common Cold
+"I have runny nose, sore throat.",Common Cold
+"I have fatigue, sore throat, runny nose.",Common Cold
+"I have sore throat, mild cough, runny nose, fatigue.",Common Cold
+"Symptoms include sore throat, mild cough.",Common Cold
+"I feel runny nose, nasal congestion, sneezing, mild cough.",Common Cold
+"I have mild cough, sneezing, fatigue, nasal congestion.",Common Cold
+"I have fatigue, nasal congestion.",Common Cold
+"Lately I have been having runny nose, mild cough, fatigue, sneezing.",Common Cold
+"I am experiencing sore throat, runny nose, nasal congestion.",Common Cold
+"I have sneezing, fatigue, mild cough.",Common Cold
+"I am experiencing sneezing, mild cough, nasal congestion, runny nose.",Common Cold
+"Lately I have been having mild cough, nasal congestion.",Common Cold
+"Symptoms include sneezing, mild cough, sore throat, fatigue.",Common Cold
+"I am experiencing mild cough, fatigue, runny nose, sneezing.",Common Cold
+"Lately I have been having runny nose, fatigue.",Common Cold
+"I feel sneezing, fatigue, nasal congestion, runny nose.",Common Cold
+"I feel sore throat, nasal congestion, mild cough.",Common Cold
+"I am experiencing runny nose, fatigue, mild cough.",Common Cold
+"Lately I have been having sore throat, nasal congestion, mild cough, sneezing.",Common Cold
+"I have nasal congestion, sore throat, sneezing.",Common Cold
+"I am experiencing nasal congestion, fatigue.",Common Cold
+"Lately I have been having mild cough, fatigue, runny nose.",Common Cold
+"I am experiencing nasal congestion, fatigue, sore throat, runny nose.",Common Cold
+"I feel nasal congestion, runny nose, fatigue.",Common Cold
+"I have sneezing, fatigue.",Common Cold
+"Lately I have been having nasal congestion, runny nose.",Common Cold
+"Lately I have been having sore throat, fatigue.",Common Cold
+"I am experiencing sore throat, nasal congestion.",Common Cold
+"I feel nasal congestion, mild cough.",Common Cold
+"I have sore throat, runny nose.",Common Cold
+"Lately I have been having dry cough, fatigue, high fever.",Influenza
+"I feel body aches, headache.",Influenza
+"I feel fatigue, dry cough.",Influenza
+"Lately I have been having high fever, fatigue.",Influenza
+"Symptoms include body aches, chills.",Influenza
+"Symptoms include fatigue, high fever, dry cough.",Influenza
+"I have fatigue, dry cough.",Influenza
+"I am experiencing high fever, chills.",Influenza
+"I have high fever, dry cough.",Influenza
+"Symptoms include chills, fatigue.",Influenza
+"I am experiencing body aches, chills, fatigue.",Influenza
+"I have high fever, headache, chills, dry cough.",Influenza
+"I am experiencing fatigue, chills.",Influenza
+"I feel chills, dry cough, headache.",Influenza
+"I feel high fever, dry cough, fatigue.",Influenza
+"I have headache, body aches, dry cough.",Influenza
+"Lately I have been having dry cough, chills.",Influenza
+"Lately I have been having headache, chills.",Influenza
+"Symptoms include fatigue, chills, headache, body aches.",Influenza
+"I have headache, high fever, chills.",Influenza
+"I feel high fever, body aches, headache.",Influenza
+"I have headache, fatigue, chills, high fever.",Influenza
+"I am experiencing headache, fatigue, dry cough, chills.",Influenza
+"Lately I have been having body aches, high fever.",Influenza
+"Lately I have been having fatigue, chills, dry cough, body aches.",Influenza
+"Lately I have been having body aches, headache, fatigue.",Influenza
+"I am experiencing chills, body aches, high fever, headache.",Influenza
+"Lately I have been having high fever, body aches.",Influenza
+"I feel body aches, headache, high fever, dry cough.",Influenza
+"I feel body aches, headache, dry cough, fatigue.",Influenza
+"I have dry cough, headache.",Influenza
+"Symptoms include high fever, chills, body aches, headache.",Influenza
+"I am experiencing high fever, fatigue, chills, dry cough.",Influenza
+"Symptoms include headache, body aches, high fever, chills.",Influenza
+"I feel fatigue, dry cough, chills, body aches.",Influenza
+"I am experiencing chills, high fever, body aches, fatigue.",Influenza
+"Symptoms include chills, fatigue.",Influenza
+"I am experiencing chills, fatigue.",Influenza
+"Symptoms include dry cough, high fever.",Influenza
+"I am experiencing dry cough, headache, body aches, chills.",Influenza
+"Lately I have been having headache, fatigue, dry cough.",Influenza
+"Symptoms include chills, headache.",Influenza
+"Symptoms include chills, body aches.",Influenza
+"Symptoms include chills, body aches.",Influenza
+"I am experiencing fatigue, dry cough, high fever, body aches.",Influenza
+"I feel high fever, headache, dry cough.",Influenza
+"I am experiencing dry cough, chills.",Influenza
+"I am experiencing dry cough, high fever, fatigue, headache.",Influenza
+"I feel chills, dry cough.",Influenza
+"I feel chills, high fever, dry cough, fatigue.",Influenza
+"Symptoms include fatigue, dry cough.",Influenza
+"Lately I have been having body aches, fatigue.",Influenza
+"Lately I have been having fatigue, body aches, high fever, chills.",Influenza
+"Lately I have been having dry cough, fatigue, chills.",Influenza
+"Symptoms include fatigue, headache, body aches.",Influenza
+"Symptoms include dry cough, fatigue.",Influenza
+"Symptoms include headache, chills.",Influenza
+"Lately I have been having body aches, dry cough, high fever, chills.",Influenza
+"I feel headache, body aches.",Influenza
+"Lately I have been having body aches, chills, dry cough, headache.",Influenza
+"Symptoms include body aches, headache, fatigue.",Influenza
+"I have high fever, headache, fatigue.",Influenza
+"I feel high fever, chills, headache.",Influenza
+"I have dry cough, body aches, chills, high fever.",Influenza
+"Lately I have been having headache, fatigue.",Influenza
+"Lately I have been having dry cough, fatigue, body aches.",Influenza
+"I have body aches, high fever.",Influenza
+"Symptoms include fatigue, chills, body aches, high fever.",Influenza
+"Lately I have been having body aches, high fever, dry cough.",Influenza
+"I am experiencing high fever, dry cough, chills, body aches.",Influenza
+"I feel headache, body aches, chills.",Influenza
+"I am experiencing body aches, high fever.",Influenza
+"Lately I have been having fatigue, chills.",Influenza
+"Lately I have been having chills, headache.",Influenza
+"I feel high fever, body aches.",Influenza
+"I am experiencing headache, body aches.",Influenza
+"Lately I have been having high fever, dry cough, chills, headache.",Influenza
+"I have chills, fatigue.",Influenza
+"Lately I have been having high fever, headache, dry cough.",Influenza
+"Symptoms include headache, chills, body aches, fatigue.",Influenza
+"I am experiencing dry cough, fatigue, headache.",Influenza
+"I am experiencing fatigue, headache.",Influenza
+"I feel body aches, chills, headache, dry cough.",Influenza
+"Lately I have been having chills, dry cough, fatigue.",Influenza
+"I have headache, fatigue, chills.",Influenza
+"Symptoms include headache, chills, fatigue.",Influenza
+"I have high fever, headache.",Influenza
+"I feel high fever, dry cough, fatigue.",Influenza
+"I have chills, high fever.",Influenza
+"Symptoms include headache, fatigue, dry cough.",Influenza
+"I have high fever, chills.",Influenza
+"I am experiencing dry cough, headache, high fever.",Influenza
+"I feel fatigue, chills, headache, high fever.",Influenza
+"I am experiencing dry cough, body aches.",Influenza
+"I feel body aches, fatigue.",Influenza
+"Lately I have been having fatigue, chills.",Influenza
+"I have fatigue, dry cough, body aches, high fever.",Influenza
+"Symptoms include high fever, dry cough.",Influenza
+"I have chills, high fever, dry cough.",Influenza
+"Symptoms include dry cough, body aches, chills.",Influenza
+"Lately I have been having nausea, stomach pain.",Gastroenteritis
+"I am experiencing vomiting, nausea, abdominal cramps, stomach pain.",Gastroenteritis
+"Lately I have been having nausea, abdominal cramps.",Gastroenteritis
+"I feel vomiting, stomach pain, nausea.",Gastroenteritis
+"Lately I have been having stomach pain, abdominal cramps.",Gastroenteritis
+"I feel vomiting, abdominal cramps.",Gastroenteritis
+"Symptoms include abdominal cramps, diarrhea, nausea.",Gastroenteritis
+"Symptoms include stomach pain, nausea, vomiting, diarrhea.",Gastroenteritis
+"I am experiencing vomiting, diarrhea.",Gastroenteritis
+"Lately I have been having vomiting, nausea, abdominal cramps.",Gastroenteritis
+"I have abdominal cramps, stomach pain, diarrhea.",Gastroenteritis
+"Symptoms include nausea, abdominal cramps.",Gastroenteritis
+"I am experiencing abdominal cramps, nausea.",Gastroenteritis
+"I am experiencing abdominal cramps, nausea, diarrhea, stomach pain.",Gastroenteritis
+"Symptoms include nausea, abdominal cramps.",Gastroenteritis
+"Lately I have been having vomiting, stomach pain.",Gastroenteritis
+"I feel nausea, abdominal cramps, diarrhea, stomach pain.",Gastroenteritis
+"I feel diarrhea, vomiting, stomach pain.",Gastroenteritis
+"I have abdominal cramps, vomiting.",Gastroenteritis
+"Symptoms include stomach pain, diarrhea.",Gastroenteritis
+"I have diarrhea, vomiting, stomach pain.",Gastroenteritis
+"Symptoms include nausea, diarrhea.",Gastroenteritis
+"Symptoms include stomach pain, abdominal cramps, diarrhea, vomiting.",Gastroenteritis
+"I feel abdominal cramps, diarrhea, vomiting.",Gastroenteritis
+"I am experiencing nausea, stomach pain, diarrhea, vomiting.",Gastroenteritis
+"I have stomach pain, nausea, vomiting, diarrhea.",Gastroenteritis
+"Lately I have been having stomach pain, nausea.",Gastroenteritis
+"Lately I have been having stomach pain, diarrhea, vomiting, abdominal cramps.",Gastroenteritis
+"Symptoms include vomiting, diarrhea, nausea.",Gastroenteritis
+"Lately I have been having nausea, vomiting.",Gastroenteritis
+"I feel stomach pain, abdominal cramps, diarrhea.",Gastroenteritis
+"I have stomach pain, vomiting.",Gastroenteritis
+"I have stomach pain, nausea, vomiting, diarrhea.",Gastroenteritis
+"Lately I have been having diarrhea, nausea.",Gastroenteritis
+"I feel diarrhea, stomach pain, abdominal cramps, vomiting.",Gastroenteritis
+"I have stomach pain, diarrhea, nausea.",Gastroenteritis
+"I feel vomiting, abdominal cramps, nausea.",Gastroenteritis
+"I have diarrhea, abdominal cramps, nausea, stomach pain.",Gastroenteritis
+"Lately I have been having abdominal cramps, stomach pain, vomiting.",Gastroenteritis
+"I feel abdominal cramps, nausea, diarrhea.",Gastroenteritis
+"I feel nausea, stomach pain, vomiting.",Gastroenteritis
+"Symptoms include abdominal cramps, stomach pain, vomiting.",Gastroenteritis
+"I have diarrhea, nausea, vomiting, abdominal cramps.",Gastroenteritis
+"Lately I have been having vomiting, nausea.",Gastroenteritis
+"I feel diarrhea, vomiting, abdominal cramps, stomach pain.",Gastroenteritis
+"I am experiencing stomach pain, diarrhea, abdominal cramps.",Gastroenteritis
+"Lately I have been having nausea, vomiting, stomach pain.",Gastroenteritis
+"I have abdominal cramps, nausea.",Gastroenteritis
+"Symptoms include vomiting, diarrhea.",Gastroenteritis
+"Symptoms include vomiting, abdominal cramps, nausea, diarrhea.",Gastroenteritis
+"I feel stomach pain, vomiting.",Gastroenteritis
+"Symptoms include diarrhea, abdominal cramps, nausea, vomiting.",Gastroenteritis
+"I am experiencing vomiting, diarrhea.",Gastroenteritis
+"Lately I have been having vomiting, diarrhea, abdominal cramps, nausea.",Gastroenteritis
+"Lately I have been having abdominal cramps, nausea, vomiting.",Gastroenteritis
+"I have diarrhea, vomiting, abdominal cramps.",Gastroenteritis
+"I feel abdominal cramps, vomiting.",Gastroenteritis
+"Lately I have been having stomach pain, diarrhea.",Gastroenteritis
+"I am experiencing stomach pain, vomiting, diarrhea.",Gastroenteritis
+"I feel diarrhea, vomiting, nausea.",Gastroenteritis
+"Lately I have been having diarrhea, vomiting, nausea, abdominal cramps.",Gastroenteritis
+"I am experiencing stomach pain, abdominal cramps.",Gastroenteritis
+"I have abdominal cramps, diarrhea, vomiting, stomach pain.",Gastroenteritis
+"I am experiencing diarrhea, abdominal cramps.",Gastroenteritis
+"I am experiencing stomach pain, nausea.",Gastroenteritis
+"I feel diarrhea, abdominal cramps, vomiting.",Gastroenteritis
+"I feel vomiting, nausea, stomach pain.",Gastroenteritis
+"I am experiencing nausea, diarrhea, vomiting.",Gastroenteritis
+"Symptoms include diarrhea, nausea, stomach pain.",Gastroenteritis
+"I have vomiting, nausea, stomach pain.",Gastroenteritis
+"I am experiencing stomach pain, nausea, diarrhea, vomiting.",Gastroenteritis
+"Symptoms include nausea, vomiting, stomach pain, diarrhea.",Gastroenteritis
+"Lately I have been having diarrhea, stomach pain, vomiting.",Gastroenteritis
+"I am experiencing diarrhea, nausea.",Gastroenteritis
+"I feel stomach pain, vomiting.",Gastroenteritis
+"Symptoms include vomiting, stomach pain, abdominal cramps.",Gastroenteritis
+"I have abdominal cramps, stomach pain, nausea, diarrhea.",Gastroenteritis
+"I am experiencing stomach pain, vomiting, diarrhea.",Gastroenteritis
+"Lately I have been having abdominal cramps, diarrhea, nausea.",Gastroenteritis
+"Lately I have been having diarrhea, stomach pain, abdominal cramps.",Gastroenteritis
+"Lately I have been having vomiting, stomach pain, diarrhea, abdominal cramps.",Gastroenteritis
+"I am experiencing diarrhea, nausea.",Gastroenteritis
+"I feel nausea, stomach pain.",Gastroenteritis
+"Symptoms include nausea, abdominal cramps, diarrhea, stomach pain.",Gastroenteritis
+"Lately I have been having stomach pain, vomiting.",Gastroenteritis
+"I am experiencing diarrhea, stomach pain, nausea, vomiting.",Gastroenteritis
+"Symptoms include stomach pain, vomiting.",Gastroenteritis
+"Lately I have been having diarrhea, abdominal cramps, vomiting, stomach pain.",Gastroenteritis
+"I have stomach pain, nausea, abdominal cramps.",Gastroenteritis
+"I have vomiting, abdominal cramps.",Gastroenteritis
+"I feel diarrhea, abdominal cramps, vomiting.",Gastroenteritis
+"I have diarrhea, vomiting, stomach pain, nausea.",Gastroenteritis
+"I am experiencing abdominal cramps, vomiting.",Gastroenteritis
+"I am experiencing nausea, stomach pain.",Gastroenteritis
+"Lately I have been having diarrhea, vomiting.",Gastroenteritis
+"I feel stomach pain, diarrhea, nausea.",Gastroenteritis
+"Lately I have been having vomiting, diarrhea, nausea, abdominal cramps.",Gastroenteritis
+"Symptoms include vomiting, stomach pain, diarrhea.",Gastroenteritis
+"I have nausea, abdominal cramps, diarrhea.",Gastroenteritis
+"Lately I have been having nausea, abdominal cramps.",Gastroenteritis
+"I feel lightheaded, pressure in head.",Hypertension
+"Symptoms include dizziness, lightheaded.",Hypertension
+"I have lightheaded, blurred vision.",Hypertension
+"I feel headache, dizziness.",Hypertension
+"I am experiencing lightheaded, blurred vision, dizziness.",Hypertension
+"I am experiencing dizziness, lightheaded, blurred vision, headache.",Hypertension
+"I am experiencing pressure in head, blurred vision.",Hypertension
+"Lately I have been having dizziness, lightheaded, pressure in head.",Hypertension
+"Lately I have been having headache, pressure in head, dizziness, blurred vision.",Hypertension
+"I have blurred vision, headache, lightheaded, pressure in head.",Hypertension
+"I am experiencing pressure in head, dizziness.",Hypertension
+"Symptoms include headache, blurred vision.",Hypertension
+"I have pressure in head, headache, lightheaded.",Hypertension
+"I feel lightheaded, blurred vision, pressure in head.",Hypertension
+"I am experiencing dizziness, blurred vision, lightheaded, headache.",Hypertension
+"I am experiencing pressure in head, dizziness, headache.",Hypertension
+"I am experiencing lightheaded, pressure in head, blurred vision, dizziness.",Hypertension
+"I am experiencing pressure in head, dizziness, blurred vision, headache.",Hypertension
+"Lately I have been having dizziness, blurred vision, pressure in head.",Hypertension
+"Symptoms include lightheaded, headache, blurred vision, dizziness.",Hypertension
+"Symptoms include blurred vision, dizziness.",Hypertension
+"I have headache, blurred vision, dizziness, lightheaded.",Hypertension
+"I have dizziness, blurred vision, pressure in head.",Hypertension
+"Lately I have been having blurred vision, lightheaded, pressure in head, dizziness.",Hypertension
+"I have blurred vision, lightheaded, dizziness, headache.",Hypertension
+"I am experiencing lightheaded, blurred vision, pressure in head, headache.",Hypertension
+"I feel pressure in head, blurred vision.",Hypertension
+"I feel dizziness, blurred vision, lightheaded, headache.",Hypertension
+"I am experiencing blurred vision, dizziness, pressure in head.",Hypertension
+"I am experiencing lightheaded, blurred vision.",Hypertension
+"I have pressure in head, lightheaded, blurred vision.",Hypertension
+"Symptoms include pressure in head, lightheaded, blurred vision, headache.",Hypertension
+"Lately I have been having headache, dizziness, lightheaded.",Hypertension
+"I am experiencing dizziness, lightheaded, blurred vision.",Hypertension
+"I am experiencing lightheaded, dizziness, headache.",Hypertension
+"I have pressure in head, blurred vision, headache, lightheaded.",Hypertension
+"I have pressure in head, lightheaded, blurred vision.",Hypertension
+"I have pressure in head, lightheaded.",Hypertension
+"I have headache, lightheaded, blurred vision, pressure in head.",Hypertension
+"I am experiencing dizziness, pressure in head, headache, blurred vision.",Hypertension
+"I have pressure in head, blurred vision, dizziness.",Hypertension
+"I am experiencing blurred vision, pressure in head, headache.",Hypertension
+"Lately I have been having dizziness, headache, pressure in head.",Hypertension
+"Symptoms include blurred vision, headache, lightheaded, dizziness.",Hypertension
+"I am experiencing headache, dizziness, pressure in head.",Hypertension
+"Lately I have been having lightheaded, dizziness.",Hypertension
+"I have pressure in head, headache, dizziness.",Hypertension
+"Symptoms include headache, pressure in head.",Hypertension
+"Symptoms include lightheaded, headache, pressure in head, blurred vision.",Hypertension
+"I am experiencing pressure in head, lightheaded.",Hypertension
+"I have blurred vision, pressure in head.",Hypertension
+"I feel blurred vision, dizziness.",Hypertension
+"I feel lightheaded, headache.",Hypertension
+"I feel dizziness, headache, blurred vision, pressure in head.",Hypertension
+"Symptoms include blurred vision, headache, lightheaded.",Hypertension
+"Symptoms include headache, lightheaded, blurred vision.",Hypertension
+"I have headache, blurred vision, dizziness, pressure in head.",Hypertension
+"I feel headache, lightheaded, dizziness.",Hypertension
+"I am experiencing blurred vision, lightheaded, dizziness, pressure in head.",Hypertension
+"I feel headache, lightheaded, dizziness, pressure in head.",Hypertension
+"I am experiencing pressure in head, blurred vision.",Hypertension
+"Symptoms include lightheaded, headache.",Hypertension
+"I have headache, lightheaded, blurred vision.",Hypertension
+"I feel dizziness, blurred vision, pressure in head.",Hypertension
+"I am experiencing lightheaded, dizziness, blurred vision, headache.",Hypertension
+"I am experiencing blurred vision, headache, dizziness, pressure in head.",Hypertension
+"Lately I have been having blurred vision, headache.",Hypertension
+"Lately I have been having headache, lightheaded.",Hypertension
+"I have pressure in head, dizziness, blurred vision.",Hypertension
+"I feel lightheaded, dizziness.",Hypertension
+"I have pressure in head, blurred vision, headache.",Hypertension
+"I am experiencing dizziness, pressure in head, headache.",Hypertension
+"I am experiencing pressure in head, blurred vision, headache, dizziness.",Hypertension
+"Symptoms include lightheaded, dizziness, blurred vision.",Hypertension
+"I have lightheaded, dizziness.",Hypertension
+"Symptoms include dizziness, blurred vision, pressure in head.",Hypertension
+"I feel lightheaded, dizziness, headache, blurred vision.",Hypertension
+"I am experiencing pressure in head, lightheaded, headache.",Hypertension
+"Lately I have been having pressure in head, headache, lightheaded, blurred vision.",Hypertension
+"I have blurred vision, lightheaded.",Hypertension
+"I have lightheaded, headache, pressure in head, blurred vision.",Hypertension
+"I am experiencing lightheaded, blurred vision, headache.",Hypertension
+"I am experiencing pressure in head, blurred vision, headache.",Hypertension
+"I am experiencing lightheaded, dizziness, headache.",Hypertension
+"I feel lightheaded, headache.",Hypertension
+"Symptoms include headache, blurred vision, lightheaded.",Hypertension
+"I feel dizziness, lightheaded, headache.",Hypertension
+"Lately I have been having pressure in head, headache, lightheaded.",Hypertension
+"Symptoms include dizziness, pressure in head, blurred vision.",Hypertension
+"I am experiencing pressure in head, blurred vision, headache.",Hypertension
+"Lately I have been having lightheaded, pressure in head, blurred vision.",Hypertension
+"Symptoms include blurred vision, lightheaded, headache, dizziness.",Hypertension
+"I have headache, dizziness, lightheaded.",Hypertension
+"Symptoms include blurred vision, headache.",Hypertension
+"I am experiencing pressure in head, dizziness, blurred vision, headache.",Hypertension
+"Lately I have been having headache, pressure in head, blurred vision, dizziness.",Hypertension
+"I feel pressure in head, dizziness, lightheaded, blurred vision.",Hypertension
+"Symptoms include lightheaded, blurred vision, headache, pressure in head.",Hypertension
+"I feel pressure in head, headache, blurred vision.",Hypertension
+"I feel lightheaded, pressure in head, blurred vision.",Hypertension
+"I have weight loss, fatigue, frequent urination, blurred vision.",Type 2 Diabetes
+"I have fatigue, frequent urination, weight loss.",Type 2 Diabetes
+"Lately I have been having fatigue, frequent urination, blurred vision.",Type 2 Diabetes
+"Lately I have been having blurred vision, fatigue.",Type 2 Diabetes
+"I am experiencing frequent urination, fatigue, blurred vision, excessive thirst.",Type 2 Diabetes
+"I am experiencing frequent urination, fatigue, blurred vision, weight loss.",Type 2 Diabetes
+"I feel frequent urination, excessive thirst, fatigue, blurred vision.",Type 2 Diabetes
+"I feel blurred vision, weight loss.",Type 2 Diabetes
+"I have excessive thirst, blurred vision, fatigue, weight loss.",Type 2 Diabetes
+"Symptoms include blurred vision, excessive thirst.",Type 2 Diabetes
+"I am experiencing excessive thirst, blurred vision, fatigue.",Type 2 Diabetes
+"I have weight loss, fatigue, blurred vision, frequent urination.",Type 2 Diabetes
+"I feel blurred vision, weight loss, frequent urination, fatigue.",Type 2 Diabetes
+"I am experiencing blurred vision, excessive thirst, weight loss.",Type 2 Diabetes
+"I feel blurred vision, excessive thirst.",Type 2 Diabetes
+"I am experiencing blurred vision, weight loss.",Type 2 Diabetes
+"I am experiencing fatigue, excessive thirst, blurred vision.",Type 2 Diabetes
+"Symptoms include frequent urination, blurred vision, excessive thirst, fatigue.",Type 2 Diabetes
+"I feel fatigue, weight loss.",Type 2 Diabetes
+"I have blurred vision, frequent urination.",Type 2 Diabetes
+"I am experiencing frequent urination, fatigue.",Type 2 Diabetes
+"I have weight loss, blurred vision, fatigue.",Type 2 Diabetes
+"I feel fatigue, weight loss, excessive thirst, frequent urination.",Type 2 Diabetes
+"I feel fatigue, blurred vision, weight loss, excessive thirst.",Type 2 Diabetes
+"I am experiencing weight loss, frequent urination, excessive thirst, fatigue.",Type 2 Diabetes
+"I feel blurred vision, frequent urination.",Type 2 Diabetes
+"I feel fatigue, blurred vision.",Type 2 Diabetes
+"I am experiencing blurred vision, frequent urination, fatigue.",Type 2 Diabetes
+"Symptoms include excessive thirst, blurred vision, weight loss.",Type 2 Diabetes
+"Symptoms include excessive thirst, frequent urination, fatigue, weight loss.",Type 2 Diabetes
+"I am experiencing blurred vision, fatigue, weight loss.",Type 2 Diabetes
+"I am experiencing frequent urination, blurred vision, fatigue, weight loss.",Type 2 Diabetes
+"I am experiencing excessive thirst, weight loss.",Type 2 Diabetes
+"I have frequent urination, excessive thirst, blurred vision.",Type 2 Diabetes
+"Lately I have been having excessive thirst, frequent urination, blurred vision, fatigue.",Type 2 Diabetes
+"I have fatigue, excessive thirst, frequent urination.",Type 2 Diabetes
+"I feel fatigue, blurred vision.",Type 2 Diabetes
+"Symptoms include excessive thirst, blurred vision.",Type 2 Diabetes
+"I feel excessive thirst, blurred vision.",Type 2 Diabetes
+"I am experiencing weight loss, frequent urination, excessive thirst.",Type 2 Diabetes
+"I have frequent urination, blurred vision, excessive thirst, fatigue.",Type 2 Diabetes
+"I have weight loss, fatigue, blurred vision, excessive thirst.",Type 2 Diabetes
+"I have blurred vision, excessive thirst, frequent urination.",Type 2 Diabetes
+"I feel blurred vision, weight loss.",Type 2 Diabetes
+"I feel weight loss, fatigue, frequent urination, excessive thirst.",Type 2 Diabetes
+"Symptoms include frequent urination, blurred vision, weight loss.",Type 2 Diabetes
+"Symptoms include frequent urination, fatigue.",Type 2 Diabetes
+"Symptoms include excessive thirst, blurred vision.",Type 2 Diabetes
+"I am experiencing fatigue, blurred vision.",Type 2 Diabetes
+"I have weight loss, frequent urination, excessive thirst, fatigue.",Type 2 Diabetes
+"I feel blurred vision, frequent urination.",Type 2 Diabetes
+"Lately I have been having frequent urination, blurred vision, excessive thirst.",Type 2 Diabetes
+"I feel blurred vision, fatigue, frequent urination.",Type 2 Diabetes
+"I am experiencing weight loss, blurred vision, excessive thirst.",Type 2 Diabetes
+"I feel frequent urination, weight loss, blurred vision.",Type 2 Diabetes
+"I am experiencing blurred vision, weight loss, fatigue.",Type 2 Diabetes
+"I have weight loss, excessive thirst, fatigue, blurred vision.",Type 2 Diabetes
+"I have blurred vision, excessive thirst.",Type 2 Diabetes
+"I have weight loss, excessive thirst.",Type 2 Diabetes
+"Lately I have been having blurred vision, frequent urination, weight loss, excessive thirst.",Type 2 Diabetes
+"I have excessive thirst, weight loss, frequent urination.",Type 2 Diabetes
+"I am experiencing weight loss, fatigue, blurred vision, frequent urination.",Type 2 Diabetes
+"I am experiencing excessive thirst, frequent urination.",Type 2 Diabetes
+"I have blurred vision, fatigue.",Type 2 Diabetes
+"Symptoms include excessive thirst, frequent urination, fatigue.",Type 2 Diabetes
+"I am experiencing frequent urination, fatigue, weight loss, blurred vision.",Type 2 Diabetes
+"Symptoms include fatigue, frequent urination, excessive thirst.",Type 2 Diabetes
+"Lately I have been having blurred vision, frequent urination, weight loss.",Type 2 Diabetes
+"I feel excessive thirst, frequent urination, fatigue, weight loss.",Type 2 Diabetes
+"Lately I have been having weight loss, fatigue, excessive thirst, blurred vision.",Type 2 Diabetes
+"I have weight loss, fatigue, excessive thirst, frequent urination.",Type 2 Diabetes
+"I am experiencing blurred vision, excessive thirst, fatigue.",Type 2 Diabetes
+"I feel fatigue, frequent urination, blurred vision, excessive thirst.",Type 2 Diabetes
+"I have blurred vision, weight loss.",Type 2 Diabetes
+"I am experiencing fatigue, excessive thirst, frequent urination.",Type 2 Diabetes
+"Lately I have been having excessive thirst, fatigue, frequent urination, blurred vision.",Type 2 Diabetes
+"I feel fatigue, excessive thirst.",Type 2 Diabetes
+"I am experiencing blurred vision, excessive thirst, fatigue, weight loss.",Type 2 Diabetes
+"Symptoms include blurred vision, excessive thirst.",Type 2 Diabetes
+"Symptoms include fatigue, blurred vision, frequent urination.",Type 2 Diabetes
+"I am experiencing frequent urination, excessive thirst, fatigue.",Type 2 Diabetes
+"Symptoms include blurred vision, fatigue.",Type 2 Diabetes
+"Lately I have been having blurred vision, excessive thirst.",Type 2 Diabetes
+"I feel weight loss, fatigue, frequent urination.",Type 2 Diabetes
+"I feel weight loss, frequent urination, fatigue, excessive thirst.",Type 2 Diabetes
+"I feel frequent urination, fatigue, excessive thirst, weight loss.",Type 2 Diabetes
+"I am experiencing frequent urination, weight loss, excessive thirst.",Type 2 Diabetes
+"I have fatigue, blurred vision, weight loss, frequent urination.",Type 2 Diabetes
+"I am experiencing excessive thirst, fatigue, frequent urination, blurred vision.",Type 2 Diabetes
+"Lately I have been having blurred vision, excessive thirst, weight loss.",Type 2 Diabetes
+"I feel blurred vision, weight loss, frequent urination.",Type 2 Diabetes
+"Symptoms include excessive thirst, weight loss, blurred vision, fatigue.",Type 2 Diabetes
+"Lately I have been having weight loss, excessive thirst, fatigue.",Type 2 Diabetes
+"Symptoms include frequent urination, weight loss, fatigue, blurred vision.",Type 2 Diabetes
+"I have weight loss, fatigue, frequent urination.",Type 2 Diabetes
+"I am experiencing blurred vision, fatigue, weight loss.",Type 2 Diabetes
+"I am experiencing frequent urination, excessive thirst.",Type 2 Diabetes
+"I feel excessive thirst, frequent urination, weight loss, blurred vision.",Type 2 Diabetes
+"I have weight loss, blurred vision.",Type 2 Diabetes
+"Lately I have been having excessive thirst, blurred vision, weight loss, fatigue.",Type 2 Diabetes
+"I feel chest tightness, coughing.",Asthma
+"I have wheezing, chest tightness, shortness of breath.",Asthma
+"I have shortness of breath, coughing, chest tightness, wheezing.",Asthma
+"Lately I have been having chest tightness, coughing, wheezing, shortness of breath.",Asthma
+"I am experiencing shortness of breath, wheezing, chest tightness.",Asthma
+"I am experiencing shortness of breath, chest tightness, coughing.",Asthma
+"I am experiencing coughing, shortness of breath, wheezing.",Asthma
+"I am experiencing chest tightness, wheezing, shortness of breath.",Asthma
+"I feel chest tightness, shortness of breath, wheezing.",Asthma
+"I feel coughing, shortness of breath, chest tightness, wheezing.",Asthma
+"I have chest tightness, shortness of breath, coughing.",Asthma
+"I feel wheezing, coughing.",Asthma
+"I feel wheezing, coughing, chest tightness.",Asthma
+"Symptoms include wheezing, chest tightness, shortness of breath.",Asthma
+"I am experiencing chest tightness, coughing, shortness of breath.",Asthma
+"I feel wheezing, chest tightness, coughing, shortness of breath.",Asthma
+"I have coughing, chest tightness, shortness of breath.",Asthma
+"Symptoms include coughing, shortness of breath.",Asthma
+"I feel coughing, chest tightness, wheezing, shortness of breath.",Asthma
+"I feel wheezing, chest tightness.",Asthma
+"Lately I have been having coughing, chest tightness.",Asthma
+"I feel chest tightness, shortness of breath, coughing, wheezing.",Asthma
+"Symptoms include shortness of breath, coughing, chest tightness, wheezing.",Asthma
+"Symptoms include shortness of breath, coughing, chest tightness.",Asthma
+"I have shortness of breath, wheezing.",Asthma
+"I have shortness of breath, wheezing, coughing, chest tightness.",Asthma
+"Symptoms include chest tightness, coughing, shortness of breath, wheezing.",Asthma
+"Lately I have been having wheezing, shortness of breath, chest tightness, coughing.",Asthma
+"Lately I have been having coughing, wheezing, shortness of breath.",Asthma
+"Lately I have been having chest tightness, shortness of breath.",Asthma
+"I feel shortness of breath, chest tightness, wheezing.",Asthma
+"Symptoms include chest tightness, coughing, wheezing.",Asthma
+"Symptoms include coughing, shortness of breath, chest tightness, wheezing.",Asthma
+"I have wheezing, coughing, shortness of breath, chest tightness.",Asthma
+"Lately I have been having shortness of breath, coughing, chest tightness.",Asthma
+"I feel chest tightness, wheezing.",Asthma
+"Lately I have been having wheezing, coughing.",Asthma
+"Lately I have been having coughing, wheezing, chest tightness.",Asthma
+"I have shortness of breath, chest tightness.",Asthma
+"I am experiencing chest tightness, wheezing.",Asthma
+"I am experiencing wheezing, coughing.",Asthma
+"Symptoms include coughing, shortness of breath, wheezing.",Asthma
+"I am experiencing wheezing, chest tightness, shortness of breath.",Asthma
+"I have shortness of breath, chest tightness.",Asthma
+"Lately I have been having coughing, chest tightness, shortness of breath.",Asthma
+"Lately I have been having coughing, wheezing, chest tightness.",Asthma
+"I have wheezing, shortness of breath.",Asthma
+"Lately I have been having chest tightness, shortness of breath, coughing.",Asthma
+"I am experiencing wheezing, chest tightness, shortness of breath, coughing.",Asthma
+"Lately I have been having coughing, wheezing.",Asthma
+"I have wheezing, coughing.",Asthma
+"Lately I have been having shortness of breath, coughing.",Asthma
+"I am experiencing chest tightness, coughing, wheezing, shortness of breath.",Asthma
+"Symptoms include wheezing, shortness of breath.",Asthma
+"Lately I have been having coughing, chest tightness, shortness of breath, wheezing.",Asthma
+"Lately I have been having coughing, wheezing.",Asthma
+"I am experiencing shortness of breath, chest tightness.",Asthma
+"I have wheezing, chest tightness.",Asthma
+"Symptoms include chest tightness, shortness of breath, wheezing, coughing.",Asthma
+"I feel coughing, shortness of breath, chest tightness, wheezing.",Asthma
+"I feel chest tightness, shortness of breath, wheezing.",Asthma
+"I have shortness of breath, wheezing.",Asthma
+"Symptoms include coughing, chest tightness.",Asthma
+"Symptoms include shortness of breath, chest tightness.",Asthma
+"I have chest tightness, shortness of breath, wheezing, coughing.",Asthma
+"I have chest tightness, coughing, wheezing.",Asthma
+"I feel shortness of breath, coughing, wheezing.",Asthma
+"Lately I have been having wheezing, coughing, chest tightness, shortness of breath.",Asthma
+"Lately I have been having shortness of breath, chest tightness.",Asthma
+"I am experiencing shortness of breath, wheezing, coughing, chest tightness.",Asthma
+"I feel coughing, shortness of breath, chest tightness, wheezing.",Asthma
+"I am experiencing wheezing, chest tightness, coughing, shortness of breath.",Asthma
+"Lately I have been having coughing, chest tightness, shortness of breath, wheezing.",Asthma
+"Lately I have been having wheezing, coughing.",Asthma
+"Lately I have been having wheezing, shortness of breath, chest tightness, coughing.",Asthma
+"I feel coughing, wheezing.",Asthma
+"Symptoms include coughing, shortness of breath.",Asthma
+"Symptoms include shortness of breath, wheezing, coughing, chest tightness.",Asthma
+"I feel coughing, wheezing, chest tightness, shortness of breath.",Asthma
+"Lately I have been having shortness of breath, chest tightness.",Asthma
+"I feel shortness of breath, wheezing, chest tightness.",Asthma
+"I have coughing, chest tightness, wheezing.",Asthma
+"I am experiencing chest tightness, shortness of breath, coughing, wheezing.",Asthma
+"I have shortness of breath, chest tightness, wheezing.",Asthma
+"I feel chest tightness, shortness of breath, coughing.",Asthma
+"I feel shortness of breath, chest tightness, wheezing, coughing.",Asthma
+"I have chest tightness, coughing, shortness of breath, wheezing.",Asthma
+"Lately I have been having shortness of breath, coughing, chest tightness.",Asthma
+"Lately I have been having coughing, wheezing, chest tightness, shortness of breath.",Asthma
+"I am experiencing wheezing, coughing.",Asthma
+"I feel shortness of breath, wheezing, chest tightness, coughing.",Asthma
+"I feel coughing, chest tightness, shortness of breath, wheezing.",Asthma
+"I have coughing, wheezing, chest tightness, shortness of breath.",Asthma
+"I have shortness of breath, chest tightness, coughing, wheezing.",Asthma
+"Lately I have been having wheezing, coughing, shortness of breath, chest tightness.",Asthma
+"Symptoms include shortness of breath, wheezing.",Asthma
+"I feel shortness of breath, chest tightness.",Asthma
+"Lately I have been having chest tightness, wheezing, coughing.",Asthma
+"Symptoms include wheezing, coughing, shortness of breath.",Asthma
+"Symptoms include coughing, shortness of breath.",Asthma
+"I feel sound sensitivity, light sensitivity, throbbing pain, severe headache.",Migraine
+"I have nausea, throbbing pain, severe headache.",Migraine
+"I am experiencing nausea, light sensitivity.",Migraine
+"I feel sound sensitivity, light sensitivity.",Migraine
+"I am experiencing sound sensitivity, severe headache.",Migraine
+"I have light sensitivity, throbbing pain, nausea, severe headache.",Migraine
+"I have sound sensitivity, nausea.",Migraine
+"I feel throbbing pain, sound sensitivity.",Migraine
+"Symptoms include nausea, severe headache, throbbing pain.",Migraine
+"I have throbbing pain, severe headache, sound sensitivity, nausea.",Migraine
+"Lately I have been having throbbing pain, light sensitivity, severe headache, sound sensitivity.",Migraine
+"I am experiencing light sensitivity, sound sensitivity, nausea, throbbing pain.",Migraine
+"I feel throbbing pain, severe headache, sound sensitivity, light sensitivity.",Migraine
+"I am experiencing throbbing pain, light sensitivity, nausea, sound sensitivity.",Migraine
+"Lately I have been having nausea, throbbing pain, light sensitivity, sound sensitivity.",Migraine
+"I am experiencing severe headache, sound sensitivity, light sensitivity.",Migraine
+"I am experiencing throbbing pain, severe headache, light sensitivity.",Migraine
+"Symptoms include throbbing pain, sound sensitivity, severe headache, nausea.",Migraine
+"I am experiencing severe headache, throbbing pain, sound sensitivity, light sensitivity.",Migraine
+"I am experiencing nausea, throbbing pain, light sensitivity.",Migraine
+"Symptoms include nausea, throbbing pain, severe headache.",Migraine
+"I feel severe headache, light sensitivity, sound sensitivity.",Migraine
+"Symptoms include sound sensitivity, severe headache, throbbing pain, nausea.",Migraine
+"Symptoms include nausea, light sensitivity, severe headache, throbbing pain.",Migraine
+"I feel throbbing pain, severe headache, sound sensitivity, light sensitivity.",Migraine
+"Symptoms include severe headache, sound sensitivity, throbbing pain.",Migraine
+"I feel nausea, sound sensitivity, light sensitivity.",Migraine
+"I have sound sensitivity, nausea.",Migraine
+"I am experiencing sound sensitivity, nausea.",Migraine
+"Lately I have been having severe headache, light sensitivity, throbbing pain.",Migraine
+"Symptoms include throbbing pain, light sensitivity, sound sensitivity.",Migraine
+"I am experiencing severe headache, light sensitivity, nausea.",Migraine
+"I feel nausea, severe headache.",Migraine
+"I feel sound sensitivity, throbbing pain, nausea, light sensitivity.",Migraine
+"Lately I have been having severe headache, light sensitivity, throbbing pain, nausea.",Migraine
+"I have throbbing pain, nausea, light sensitivity.",Migraine
+"I have throbbing pain, severe headache, nausea, light sensitivity.",Migraine
+"Lately I have been having light sensitivity, severe headache, nausea, throbbing pain.",Migraine
+"I am experiencing light sensitivity, severe headache.",Migraine
+"Symptoms include sound sensitivity, nausea.",Migraine
+"I am experiencing severe headache, sound sensitivity.",Migraine
+"Symptoms include throbbing pain, nausea.",Migraine
+"Symptoms include light sensitivity, nausea.",Migraine
+"Symptoms include sound sensitivity, throbbing pain, nausea, severe headache.",Migraine
+"I have sound sensitivity, light sensitivity, nausea, throbbing pain.",Migraine
+"I have throbbing pain, light sensitivity, nausea.",Migraine
+"I feel severe headache, throbbing pain, nausea, light sensitivity.",Migraine
+"I am experiencing severe headache, throbbing pain.",Migraine
+"I have throbbing pain, nausea, sound sensitivity.",Migraine
+"Symptoms include severe headache, nausea, throbbing pain.",Migraine
+"Symptoms include throbbing pain, sound sensitivity.",Migraine
+"Symptoms include throbbing pain, light sensitivity, nausea.",Migraine
+"Lately I have been having nausea, throbbing pain, light sensitivity, severe headache.",Migraine
+"I am experiencing sound sensitivity, throbbing pain, nausea, severe headache.",Migraine
+"Symptoms include sound sensitivity, severe headache, light sensitivity.",Migraine
+"Lately I have been having sound sensitivity, light sensitivity, throbbing pain, severe headache.",Migraine
+"I feel severe headache, sound sensitivity.",Migraine
+"Lately I have been having nausea, sound sensitivity, light sensitivity, severe headache.",Migraine
+"I am experiencing severe headache, throbbing pain, sound sensitivity, nausea.",Migraine
+"I feel throbbing pain, light sensitivity, sound sensitivity.",Migraine
+"I am experiencing nausea, severe headache, throbbing pain, sound sensitivity.",Migraine
+"Lately I have been having throbbing pain, severe headache, light sensitivity, sound sensitivity.",Migraine
+"Lately I have been having light sensitivity, throbbing pain, severe headache, sound sensitivity.",Migraine
+"Lately I have been having severe headache, throbbing pain.",Migraine
+"I am experiencing sound sensitivity, light sensitivity, severe headache, nausea.",Migraine
+"I have nausea, sound sensitivity, light sensitivity, throbbing pain.",Migraine
+"Lately I have been having throbbing pain, light sensitivity.",Migraine
+"I have light sensitivity, throbbing pain, severe headache.",Migraine
+"I have throbbing pain, sound sensitivity, severe headache, light sensitivity.",Migraine
+"Lately I have been having nausea, throbbing pain, sound sensitivity, light sensitivity.",Migraine
+"I am experiencing light sensitivity, severe headache.",Migraine
+"I have light sensitivity, nausea, throbbing pain.",Migraine
+"Symptoms include nausea, sound sensitivity, severe headache.",Migraine
+"Symptoms include nausea, throbbing pain, severe headache, sound sensitivity.",Migraine
+"I feel light sensitivity, sound sensitivity, nausea, severe headache.",Migraine
+"I am experiencing nausea, sound sensitivity.",Migraine
+"I feel light sensitivity, throbbing pain.",Migraine
+"Lately I have been having throbbing pain, sound sensitivity, nausea.",Migraine
+"Symptoms include light sensitivity, throbbing pain, nausea, sound sensitivity.",Migraine
+"I feel light sensitivity, sound sensitivity, nausea, severe headache.",Migraine
+"Lately I have been having light sensitivity, nausea, severe headache.",Migraine
+"I have nausea, throbbing pain.",Migraine
+"I am experiencing throbbing pain, light sensitivity, nausea.",Migraine
+"I feel throbbing pain, sound sensitivity, light sensitivity, nausea.",Migraine
+"I feel sound sensitivity, severe headache, light sensitivity.",Migraine
+"I have nausea, severe headache, light sensitivity.",Migraine
+"Lately I have been having severe headache, light sensitivity.",Migraine
+"I have severe headache, nausea, throbbing pain.",Migraine
+"I have sound sensitivity, severe headache, throbbing pain.",Migraine
+"I feel severe headache, throbbing pain, sound sensitivity, light sensitivity.",Migraine
+"Symptoms include nausea, throbbing pain, sound sensitivity.",Migraine
+"Symptoms include sound sensitivity, throbbing pain.",Migraine
+"Symptoms include sound sensitivity, throbbing pain.",Migraine
+"Lately I have been having severe headache, nausea, throbbing pain, sound sensitivity.",Migraine
+"I have sound sensitivity, severe headache, light sensitivity.",Migraine
+"I feel nausea, light sensitivity, severe headache.",Migraine
+"Lately I have been having light sensitivity, severe headache, nausea.",Migraine
+"I am experiencing throbbing pain, nausea.",Migraine
+"Symptoms include light sensitivity, severe headache.",Migraine
+"I feel severe headache, throbbing pain, sound sensitivity.",Migraine
+"I am experiencing frequent urination, lower abdominal pain, burning urination.",UTI
+"Lately I have been having cloudy urine, burning urination.",UTI
+"I feel cloudy urine, lower abdominal pain.",UTI
+"I feel burning urination, cloudy urine, frequent urination.",UTI
+"I am experiencing burning urination, cloudy urine.",UTI
+"I have burning urination, frequent urination, lower abdominal pain.",UTI
+"I feel cloudy urine, lower abdominal pain, frequent urination, burning urination.",UTI
+"I feel lower abdominal pain, burning urination, cloudy urine, frequent urination.",UTI
+"Lately I have been having frequent urination, lower abdominal pain, cloudy urine.",UTI
+"I have burning urination, frequent urination.",UTI
+"Symptoms include frequent urination, lower abdominal pain, burning urination, cloudy urine.",UTI
+"Symptoms include frequent urination, cloudy urine, lower abdominal pain.",UTI
+"I am experiencing burning urination, cloudy urine, lower abdominal pain, frequent urination.",UTI
+"I have burning urination, frequent urination, lower abdominal pain.",UTI
+"I am experiencing burning urination, frequent urination, cloudy urine.",UTI
+"I am experiencing cloudy urine, burning urination.",UTI
+"I feel cloudy urine, burning urination.",UTI
+"I feel burning urination, lower abdominal pain, frequent urination.",UTI
+"I have cloudy urine, lower abdominal pain, frequent urination, burning urination.",UTI
+"Symptoms include lower abdominal pain, frequent urination, cloudy urine.",UTI
+"I have cloudy urine, lower abdominal pain, frequent urination.",UTI
+"I feel cloudy urine, burning urination.",UTI
+"I feel lower abdominal pain, frequent urination, burning urination.",UTI
+"I have frequent urination, burning urination.",UTI
+"Symptoms include frequent urination, cloudy urine, lower abdominal pain.",UTI
+"I am experiencing cloudy urine, lower abdominal pain, burning urination, frequent urination.",UTI
+"I have frequent urination, burning urination, cloudy urine, lower abdominal pain.",UTI
+"Lately I have been having frequent urination, lower abdominal pain, burning urination.",UTI
+"I feel lower abdominal pain, frequent urination, cloudy urine, burning urination.",UTI
+"Symptoms include frequent urination, burning urination.",UTI
+"Lately I have been having lower abdominal pain, cloudy urine, frequent urination.",UTI
+"Lately I have been having lower abdominal pain, burning urination, frequent urination, cloudy urine.",UTI
+"I feel burning urination, frequent urination, cloudy urine.",UTI
+"I am experiencing burning urination, lower abdominal pain.",UTI
+"I feel lower abdominal pain, burning urination, frequent urination, cloudy urine.",UTI
+"Symptoms include cloudy urine, frequent urination.",UTI
+"Lately I have been having cloudy urine, burning urination, frequent urination, lower abdominal pain.",UTI
+"I am experiencing lower abdominal pain, cloudy urine, burning urination, frequent urination.",UTI
+"Symptoms include burning urination, lower abdominal pain, frequent urination.",UTI
+"Lately I have been having lower abdominal pain, frequent urination, cloudy urine.",UTI
+"I have burning urination, cloudy urine, lower abdominal pain.",UTI
+"I have lower abdominal pain, burning urination, cloudy urine.",UTI
+"Symptoms include frequent urination, cloudy urine, lower abdominal pain.",UTI
+"I am experiencing frequent urination, burning urination.",UTI
+"I feel burning urination, cloudy urine.",UTI
+"I am experiencing cloudy urine, frequent urination, lower abdominal pain.",UTI
+"Symptoms include burning urination, cloudy urine.",UTI
+"I have lower abdominal pain, cloudy urine, frequent urination.",UTI
+"Symptoms include cloudy urine, burning urination, frequent urination, lower abdominal pain.",UTI
+"I have lower abdominal pain, frequent urination.",UTI
+"I have cloudy urine, frequent urination, lower abdominal pain, burning urination.",UTI
+"Symptoms include frequent urination, lower abdominal pain, burning urination, cloudy urine.",UTI
+"I have lower abdominal pain, frequent urination, cloudy urine.",UTI
+"Symptoms include frequent urination, cloudy urine.",UTI
+"Symptoms include frequent urination, lower abdominal pain.",UTI
+"I am experiencing frequent urination, cloudy urine, burning urination, lower abdominal pain.",UTI
+"Lately I have been having cloudy urine, burning urination, frequent urination.",UTI
+"Lately I have been having burning urination, lower abdominal pain, cloudy urine, frequent urination.",UTI
+"I feel cloudy urine, burning urination, lower abdominal pain, frequent urination.",UTI
+"Lately I have been having lower abdominal pain, burning urination.",UTI
+"I feel lower abdominal pain, burning urination.",UTI
+"I feel burning urination, lower abdominal pain, cloudy urine, frequent urination.",UTI
+"I am experiencing burning urination, lower abdominal pain, cloudy urine, frequent urination.",UTI
+"I have frequent urination, lower abdominal pain.",UTI
+"I feel burning urination, frequent urination, lower abdominal pain, cloudy urine.",UTI
+"I am experiencing lower abdominal pain, frequent urination, cloudy urine.",UTI
+"I have cloudy urine, burning urination, lower abdominal pain, frequent urination.",UTI
+"I am experiencing cloudy urine, frequent urination, burning urination, lower abdominal pain.",UTI
+"Symptoms include frequent urination, burning urination.",UTI
+"I am experiencing burning urination, lower abdominal pain, cloudy urine, frequent urination.",UTI
+"I have lower abdominal pain, burning urination, frequent urination, cloudy urine.",UTI
+"I have burning urination, lower abdominal pain, frequent urination.",UTI
+"I feel frequent urination, cloudy urine, burning urination.",UTI
+"I am experiencing cloudy urine, lower abdominal pain, burning urination.",UTI
+"Symptoms include burning urination, lower abdominal pain.",UTI
+"I am experiencing burning urination, cloudy urine.",UTI
+"I feel frequent urination, burning urination.",UTI
+"I feel lower abdominal pain, burning urination, cloudy urine, frequent urination.",UTI
+"I have burning urination, frequent urination.",UTI
+"I am experiencing cloudy urine, frequent urination, lower abdominal pain.",UTI
+"Lately I have been having burning urination, frequent urination.",UTI
+"I am experiencing frequent urination, cloudy urine, lower abdominal pain, burning urination.",UTI
+"I have burning urination, frequent urination.",UTI
+"I am experiencing burning urination, lower abdominal pain, frequent urination.",UTI
+"I feel lower abdominal pain, cloudy urine, frequent urination.",UTI
+"I am experiencing burning urination, lower abdominal pain, frequent urination.",UTI
+"I am experiencing cloudy urine, frequent urination, lower abdominal pain.",UTI
+"Symptoms include frequent urination, lower abdominal pain, cloudy urine.",UTI
+"I have frequent urination, cloudy urine.",UTI
+"I have frequent urination, lower abdominal pain.",UTI
+"I feel burning urination, frequent urination, cloudy urine, lower abdominal pain.",UTI
+"Symptoms include frequent urination, cloudy urine.",UTI
+"I have frequent urination, burning urination, cloudy urine.",UTI
+"I am experiencing cloudy urine, burning urination.",UTI
+"Symptoms include frequent urination, cloudy urine.",UTI
+"Lately I have been having frequent urination, lower abdominal pain, cloudy urine, burning urination.",UTI
+"Symptoms include lower abdominal pain, frequent urination.",UTI
+"I am experiencing frequent urination, cloudy urine.",UTI
+"I have frequent urination, burning urination, lower abdominal pain, cloudy urine.",UTI
+"I feel frequent urination, burning urination, lower abdominal pain.",UTI

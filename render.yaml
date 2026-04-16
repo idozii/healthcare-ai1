@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: healthcare-ai
+    env: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    healthCheckPath: /
+    envVars:
+      - key: ALLOW_MODEL_DOWNLOAD
+        value: "0"
+      - key: FORCE_OFFLINE_RETRIEVER
+        value: "1"
+      - key: RETRIEVAL_QUERY_CACHE_SIZE
+        value: "256"

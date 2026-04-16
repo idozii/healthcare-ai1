@@ -1,0 +1,9 @@
+provider_id,department_id,provider_name,provider_score
+201,101,Dr. Linh Tran,0.91
+202,101,Dr. Ethan Cole,0.86
+203,102,Dr. Ava Nguyen,0.84
+204,103,Dr. Minh Hoang,0.90
+205,103,Dr. Noah Patel,0.83
+206,104,Dr. Sophia Le,0.82
+207,105,Dr. Lucas Pham,0.88
+208,106,Dr. Emma Duong,0.87
