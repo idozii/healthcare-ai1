@@ -87,6 +87,32 @@ class OfflineDiseaseRetriever:
             if top_idx.size == 0:
                 return []
 
+        if "dental" in intents:
+            dental_mask = (
+                self.df["disease_name"].str.contains(
+                    r"tooth|teeth|dental|gingiv|gum|abscess|oral|caries|periodont",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+                | self.df["description"].str.contains(
+                    r"tooth|teeth|dental|gingiv|gum|abscess|oral|caries|periodont|jaw",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+                | self.df["mapped_departments"].str.contains(
+                    r"dentistry|oral|maxillofacial|ent",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+            )
+            allowed_idx = np.flatnonzero(dental_mask.to_numpy())
+            filtered_top = np.array([idx for idx in top_idx if idx in set(allowed_idx)], dtype=int)
+            if filtered_top.size > 0:
+                top_idx = filtered_top
+
         matches = self.df.iloc[top_idx].copy()
         matches["confidence"] = adjusted[top_idx]
         matches["lexical_score"] = sim[top_idx]

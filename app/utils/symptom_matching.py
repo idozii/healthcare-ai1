@@ -32,6 +32,9 @@ _SYMPTOM_REPLACEMENTS = [
     (r"\bcan['’]?t\s+keep\s+food\s+down\b", "vomiting"),
     (r"\brunny\s+nose\b", "nasal congestion"),
     (r"\bscratchy\s+throat\b", "sore throat"),
+    (r"\bteeth\b", "tooth pain dental"),
+    (r"\btoothache\b", "tooth pain"),
+    (r"\bgum\s+pain\b", "gum pain dental"),
 ]
 
 _NON_CLINICAL_PATTERNS = [
@@ -48,6 +51,7 @@ _SYMPTOM_SIGNAL_TERMS = {
     "migraine", "photophobia", "aura", "throbbing", "unilateral", "urinate", "urination", "urinary",
     "bathroom", "cloudy", "thirsty", "diarrhea", "diarrhoea", "stomach", "cramps", "sneezing", "runny",
     "nose", "congestion", "watery", "vision", "blurred", "wound", "heal", "hunger", "hungry",
+    "tooth", "teeth", "dental", "gum", "gums", "jaw",
 }
 
 _BODY_PART_HINTS = {"leg", "legs", "arm", "arms", "knee", "knees", "ankle", "ankles", "foot", "feet", "hip", "hips"}
@@ -87,6 +91,9 @@ _INTENT_KEYWORDS = {
     "infection": {
         "fever", "chills", "myalgia", "ache", "aches", "flu", "influenza", "viral", "sore", "throat", "sudden"
     },
+    "dental": {
+        "tooth", "teeth", "toothache", "dental", "gum", "gums", "jaw", "molar", "oral"
+    },
 }
 
 _INTENT_TERMS = {
@@ -101,6 +108,7 @@ _INTENT_TERMS = {
     "cold": {"cold", "runny", "sneezing", "congestion", "scratchy", "watery", "throat"},
     "headache": {"headache", "migraine", "photophobia", "aura", "throbbing", "unilateral", "temple"},
     "infection": {"influenza", "flu", "viral", "chills", "myalgia", "body ache", "sore throat"},
+    "dental": {"tooth", "dental", "oral", "gingiva", "jaw", "odont"},
 }
 
 _CONFLICT_DEPTS = {
@@ -116,6 +124,7 @@ _INTENT_DEPT_BONUS = {
     "cold": {"internal medicine", "pulmonology"},
     "headache": {"internal medicine", "emergency"},
     "infection": {"internal medicine", "pulmonology", "emergency"},
+    "dental": {"dentistry", "oral", "maxillofacial", "emergency", "ent", "internal medicine"},
 }
 
 _INTENT_DEPT_PENALTY = {
@@ -127,6 +136,7 @@ _INTENT_DEPT_PENALTY = {
     "cold": {"cardiology": 0.12},
     "headache": {"cardiology": 0.18, "pulmonology": 0.10},
     "infection": {"cardiology": 0.24, "psychiatry": 0.12},
+    "dental": {"cardiology": 0.16, "psychiatry": 0.12},
 }
 
 _CARDIO_QUERY_HINTS = {"chest", "angina", "heart", "cardiac", "palpitation", "pressure"}
@@ -177,6 +187,12 @@ def enrich_sparse_query(normalized_text: str) -> str:
             f"head pain severe headache"
         )
 
+    if token_set.intersection({"teeth", "tooth", "toothache", "dental", "gum", "gums", "jaw"}):
+        return (
+            f"{normalized_text} tooth pain dental pain gum swelling jaw pain oral infection "
+            f"tooth abscess severe toothache"
+        )
+
     return normalized_text
 
 
@@ -205,6 +221,9 @@ def confidence_threshold_for_query(normalized_text: str, base_threshold: float) 
 
     if "headache" in intents:
         threshold = max(0.12, threshold - 0.06)
+
+    if "dental" in intents and token_count <= 3:
+        threshold = max(0.06, threshold - 0.05)
 
     return threshold
 

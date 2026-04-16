@@ -11,6 +11,7 @@ router = APIRouter()
 
 _disease_service: DiseaseService | None = None
 _recommendation_service: RecommendationService | None = None
+_NO_MATCH_MESSAGE = "No reliable diagnosis match found. Try adding more specific symptoms or duration details."
 
 
 def get_disease_service() -> DiseaseService:
@@ -64,7 +65,7 @@ def predict(payload: PredictRequest) -> dict:
     recommendations_by_disease: dict[str, list[dict]] = {}
     if not diseases:
         recommendations = []
-        message = "No reliable diagnosis match found. Try adding more specific symptoms or duration details."
+        message = _NO_MATCH_MESSAGE
     else:
         for disease in diseases:
             disease_name = str(disease.get("disease_name") or disease.get("Disease") or "Unknown")
@@ -77,6 +78,9 @@ def predict(payload: PredictRequest) -> dict:
         # Backward-compatible field for clients expecting a flat list.
         first_name = str(diseases[0].get("disease_name") or diseases[0].get("Disease") or "Unknown")
         recommendations = recommendations_by_disease.get(first_name, [])
+
+    if message.lower().startswith("no reliable no reliable"):
+        message = _NO_MATCH_MESSAGE
 
     return {
         "diseases": diseases,

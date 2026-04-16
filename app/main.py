@@ -712,7 +712,7 @@ def root() -> str:
 			</div>
 			<div class="kicker">Clinical Decision Support</div>
 			<h1>MediPower</h1>
-			<p>See likely conditions first, then compare hospital options with clearer travel times, capability fit, and care continuity signals.</p>
+			<p>Start with the most likely conditions first, then compare hospital options with clearer travel times, capability fit, and care continuity signals.</p>
 		</section>
 
 		<section class="panel">
@@ -820,9 +820,9 @@ def root() -> str:
 
 		function waitFromFlow(flowEfficiency) {
 			const flow = Number(flowEfficiency);
-			if (!Number.isFinite(flow)) return "estimated ~2 weeks";
+			if (!Number.isFinite(flow)) return "approximate 2 weeks";
 			const weeks = Math.max(1, Math.round((1.2 - Math.min(flow, 1)) * 4));
-			return `estimated ~${weeks} week${weeks > 1 ? "s" : ""} (flow-based proxy)`;
+			return `approximate ${weeks} week${weeks > 1 ? "s" : ""}`;
 		}
 
 		function formatDuration(minutes) {
@@ -1131,6 +1131,26 @@ def root() -> str:
 				const name = d.disease_name || d.Disease || "Unknown";
 				const desc = d.description || "";
 				const mapped = d.mapped_departments || "";
+				const deptBadges = mapped
+					? mapped.split("|").map(dept => {
+						const trimmed = dept.trim();
+						if (!trimmed) return "";
+						const deptColor = {
+							"Cardiology": "#ff6b6b",
+							"Emergency": "#ff9100",
+							"Pulmonology": "#4dabf7",
+							"Internal Medicine": "#69db7c",
+							"Dentistry": "#ffd43b",
+							"Oral Surgery": "#ffa94d",
+							"Psychiatry": "#da77f2",
+							"Gastroenterology": "#74c0fc",
+							"Neurology": "#b197fc",
+							"Orthopedics": "#a8e6cf"
+						};
+						const bgColor = deptColor[trimmed] || "#a0aec0";
+						return `<span style="display:inline-block;background:${bgColor};color:#fff;padding:3px 10px;border-radius:20px;font-size:0.78rem;font-weight:600;margin-right:6px;margin-top:4px;">${trimmed}</span>`;
+					}).join("")
+					: "";
 				return `
 					<div class="item">
 						<div class="disease-title">
@@ -1138,7 +1158,7 @@ def root() -> str:
 							<button class="disease-action" data-name="${name}" data-mapped="${mapped}">Hospital suggestions</button>
 						</div>
 						<div style="margin-top:4px;font-size:0.9rem;color:#5f6f65;">${desc}</div>
-						${mapped ? `<div style="margin-top:6px;font-size:0.82rem;"><span class="chip">Dept</span>${mapped}</div>` : ""}
+						${deptBadges ? `<div style="margin-top:10px;"><div style="font-size:0.75rem;font-weight:700;color:#5f6f65;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:6px;">Departments</div><div style="display:flex;flex-wrap:wrap;gap:6px;">${deptBadges}</div></div>` : ""}
 					</div>
 				`;
 			}).join("");
@@ -1169,7 +1189,7 @@ def root() -> str:
 			recHeaderEl.textContent = "Recommended Hospitals for:";
 			tradeoffBoxEl.style.display = "none";
 			tradeoffBoxEl.textContent = "";
-			recListEl.innerHTML = "<div class='item'>Waiting for condition selection...</div>";
+			recListEl.innerHTML = "<div class='item'>Please choose the condition above</div>";
 			cachedRecommendations = [];
 			cachedRecommendationsByDisease = {};
 

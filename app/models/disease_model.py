@@ -125,6 +125,31 @@ class DiseaseRetriever:
             if rank_df.empty:
                 return []
 
+        if "dental" in intents:
+            dental_mask = (
+                self.df["disease_name"].str.contains(
+                    r"tooth|teeth|dental|gingiv|gum|abscess|oral|caries|periodont",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+                | self.df["description"].str.contains(
+                    r"tooth|teeth|dental|gingiv|gum|abscess|oral|caries|periodont|jaw",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+                | self.df["mapped_departments"].str.contains(
+                    r"dentistry|oral|maxillofacial|ent",
+                    case=False,
+                    regex=True,
+                    na=False,
+                )
+            )
+            filtered_rank_df = rank_df.loc[rank_df["idx"].isin(self.df.index[dental_mask])].copy()
+            if not filtered_rank_df.empty:
+                rank_df = filtered_rank_df
+
         take = rank_df.head(top_k).copy()
         matches = self.df.iloc[take["idx"].tolist()].copy().reset_index(drop=True)
         matches["confidence"] = take["hybrid_score"].values

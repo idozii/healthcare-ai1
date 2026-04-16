@@ -24,3 +24,7 @@ disease_id,disease_name,description,mapped_departments
 23,Hypertension (High Blood Pressure),"Dizziness, headaches, head pressure, occasional blurred vision, lightheadedness, often no symptoms","Cardiology|Internal Medicine"
 24,Gastroenteritis (Food Poisoning / Stomach Flu),"Diarrhea, vomiting, abdominal cramps, nausea, stomach pain, inability to keep food down","Internal Medicine|Emergency"
 25,Common Cold,"Runny nose, sneezing, mild sore throat, nasal congestion, watery eyes, light cough, mild fatigue","Internal Medicine|Pulmonology"
+26,Tooth Decay (Dental Caries),"Tooth pain, sensitivity to sweet or cold foods, visible cavities, pain when biting","Dentistry|Internal Medicine"
+27,Gum Disease (Gingivitis/Periodontitis),"Bleeding gums, gum swelling, bad breath, gum tenderness, loose teeth in advanced cases","Dentistry|Internal Medicine"
+28,Dental Abscess,"Severe throbbing tooth pain, gum or jaw swelling, facial swelling, fever, foul taste, tenderness","Dentistry|Emergency"
+29,Tooth Sensitivity,"Sharp tooth pain with cold, hot, sweet, or acidic foods, brief sensitivity episodes","Dentistry|Internal Medicine"
